@@ -1,0 +1,1321 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sollicitor exactly and plainly declaring both as to knowledge and practice how such an undertaker ought to be qualified : as also his parts, qualities, and fitting endowments for such a weighty employment in a more special manner then hath ever seen heretofore published by any hand whatsoever : shewing further the particular of suing a person priviledged, and how the same may by course of court sue any forrainer : being truly useful for all sorts of persons who have any important business in law or equity /</title>
+            <author>Manley, Thomas, 1628-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 145 KB of XML-encoded text transcribed from 58 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51782</idno>
+            <idno type="STC">Wing M448</idno>
+            <idno type="STC">ESTC R29479</idno>
+            <idno type="EEBO-CITATION">11150744</idno>
+            <idno type="OCLC">ocm 11150744</idno>
+            <idno type="VID">46430</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51782)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46430)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1425:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sollicitor exactly and plainly declaring both as to knowledge and practice how such an undertaker ought to be qualified : as also his parts, qualities, and fitting endowments for such a weighty employment in a more special manner then hath ever seen heretofore published by any hand whatsoever : shewing further the particular of suing a person priviledged, and how the same may by course of court sue any forrainer : being truly useful for all sorts of persons who have any important business in law or equity /</title>
+                  <author>Manley, Thomas, 1628-1690.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition corrected.</edition>
+               </editionStmt>
+               <extent>[4], 108 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Streater,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard Law School Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lawyers --  England --  Handbooks, manuals, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46430:1" rendition="simple:additions"/>
+            <pb facs="tcp:46430:1" rendition="simple:additions"/>
+            <p>THE SOLLICITOR.</p>
+            <p>Exactly and plainly declaring, Both as to KNOWLEDGE and PRACTICE, how ſuch an Undertaker ought to be qualified. As alſo, His Parts, Qualities, and fitting Endowments for ſuch a weighty Em<g ref="char:EOLhyphen"/>ployment.</p>
+            <p>In a more ſpecial manner then hath ever been heretofore publiſhed by any hand whatſoever.</p>
+            <p>Shewing further the particular Of Suing a perſon Priviledged; And how the ſame may by courſe of Court ſue any Forrainer.</p>
+            <p>Being truly uſefull for all ſorts of perſons who have any important Buſineſs in Law or Equity.</p>
+            <p>By <hi>T. M.</hi> 
+               <abbr>Eſq</abbr> twelve years a Practitioner, and now of the Middle-Temple <hi>London.</hi>
+            </p>
+            <p>
+               <hi>The Second Edition Corrected.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Hor.</hi>
+               </bibl>
+               <l>—Si quid noviſti rectius iſtis</l>
+               <l>Candidus imperti; ſi non, his utere mecum.</l>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. Streater,</hi> 1663.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:46430:2" rendition="simple:additions"/>
+            <pb facs="tcp:46430:2"/>
+            <head>To the Honourable S<hi rend="sup">r</hi> HENEAGE FINCH, Knight and Baronet, <hi>His Majestie's Sollicitor-Generall.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Mong the ſeveral varie<g ref="char:EOLhyphen"/>ties produced by this Age, wherein almoſt every man endeavoureth in his own way the ma<g ref="char:EOLhyphen"/>nagement of his particu<g ref="char:EOLhyphen"/>lar Affair, I come, <hi>Athenian</hi>-like, with an <hi>Aliquid Novi</hi> (as I ſuppoſe) in my hand. I cannot be ſo vain to imagine that there is any Circle, Star, or Meteor in the Sphere of the Law, but what you are exquiſitely able to make the world know, you can
+<pb facs="tcp:46430:3"/>take the heighth of, and to diſcover its proper or Excentrical Motion. To the candor therefore of ſo great and learned a Judgment, I could not but offer this ſmall Eſſay: which though in it ſelf not able to draw aſide your eye to glance on ir, yet happily to the generality it may prove in ſome meaſure helpful and advantagious. And though the meanneſs of the gift may not merit your acceptance, yet your good<g ref="char:EOLhyphen"/>neſs I hope will over-balance the ſame; and thereby give encouragement to him who deſires to approve himſelf,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>
+                  <hi>An Honourer of your Name and Vertues,</hi> T. M.</signed>
+               <dateline>Mid. Temp. <date>
+                     <hi>Nov.</hi> 20. 1662.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:46430:3"/>
+            <head>To the READER.</head>
+            <p>THe deſire of the publick benefit will no doubt ſo readily appear in the ve<g ref="char:EOLhyphen"/>ry Frontiſpiece, that it will ſave an unneceſſary labour of boaſting of this endea<g ref="char:EOLhyphen"/>vour, or complementing your acceptance. Things of this nature affect not any dreſs or preparatory ſhews, as not beholding to any Or<g ref="char:EOLhyphen"/>nament for the commendation of their uſe, which anſwers the acceſſional Fancies of Language. Practice and the plodding head is the ſubject of this Treatiſe; to which Fan<g ref="char:EOLhyphen"/>cy, and other polite Curioſities, are very in<g ref="char:EOLhyphen"/>competent Auxiliaries: yet will you find a tincture and accost of ſuch pleaſing delight, even in the ſhort turns and inobſervant Diſ<g ref="char:EOLhyphen"/>patches of this our Sollicitor, which may tell you the Book was painfully laboured to ac<g ref="char:EOLhyphen"/>commodate it ſelf to his moſt expreſs Chara<g ref="char:EOLhyphen"/>cter. All I ſhall add is this, That it may be
+<pb facs="tcp:46430:4"/>confidently preſumed, that the frequent abu<g ref="char:EOLhyphen"/>ſes and miſcarriages in this Employment will both be rectified, wilfull Delinquents terrifi<g ref="char:EOLhyphen"/>ed, the Clyent certified, and ſuch an unerring Reputation obtained, that the Law ſhall re<g ref="char:EOLhyphen"/>cover and maintain its honour free from the affronts and injuries of ignorance and impu<g ref="char:EOLhyphen"/>dence; Juſtice will be triumphant; and the Clyent find the benefit of them both, with eaſe, aſſurance and expedition.</p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+         </div>
+         <div type="note">
+            <p>By ſome inadvertency of the Preſs, the manner and method of ſuing any Courti<g ref="char:EOLhyphen"/>er, or other protected perſon, having been omitted; it is added at the end, by way of Appendix.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:46430:4"/>
+            <head>The Compleat SOLLICITOR.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> Of the Carriage and Demeanour of a <hi>Sollicitor.</hi>
+               </head>
+               <p>MAn is not born to live with his arms acroſs; but rather, as one of the moſt neceſſary members of this beautious Frame of the world, he muſt conferr and con<g ref="char:EOLhyphen"/>tribute his whole travel and pain, to the con<g ref="char:EOLhyphen"/>duction and conſervation of that civil ſociety in which he is placed; not only to the good of himſelf, but of others alſo. But becauſe that in the choice which men make of a Calling, their happineſs in the managery thereof doth depend; and that nothing ſo much avails to the leading a contented life, as when they find themſelves
+<pb n="2" facs="tcp:46430:5"/>fit for the ſame; they ought before all other things, to take a tryal of their own ſtrength, and ſeriouſly bethink themſelves of that charge they are about to embrace; becauſe uſually we preſume too much upon our own ſtrength, and attempt more then our ability is fit to atchieve: and this errour we ſee is incident almoſt to all our actions. Hence it is, That ſome will ſpend more then their eſtates may well bear; others, in labouring and toyling, go beyond their abi<g ref="char:EOLhyphen"/>lities: ſome are not maſters of their paſſions; others there are, that in dalliance and ſporting, waſte their time: and another ſort there are, who are ſo vehemently Satyrical, that they will not ſpare any perſon, no not the Prince, although thereby they incurr the hazard and penalty of looſing their heads. Some are unapt to man<g ref="char:EOLhyphen"/>age publick affairs, as being of a ſullen and ſo<g ref="char:EOLhyphen"/>litary humour, or of a ſlack and ſlow diſpoſition; and others as unfit for all employment, as any of the aforementioned, for that they be either obſtinate in opinion, or diſcourteous and booriſh in their behaviour and carriage. And that which maketh us to fall into theſe faults, is, for that we do not throughly ſee and look into our Selves. Whence it cometh to paſs, That thus neglecting to take a true tryal of our own towardneſs and ſtrength; we do often under<g ref="char:EOLhyphen"/>take buſineſs of ſuch gravity and weight, as that afterwards we muſt either abandon them with
+<pb n="3" facs="tcp:46430:5"/>ignorance and ſhame, or elſe to go on with them, we muſt needs ſuffer much grief, pain and diſ<g ref="char:EOLhyphen"/>pleaſure.</p>
+               <p>Now that a man may the more warily weigh an affair before he put his had to the plough, (as we ſay) or his back to the burthen, let him remember, hat the Bearer muſt always have more pith then the Burthen: for if it be too great or too heavy, who ſeeth not but that the Undertaker ſhall be conſtrained either to leave it, or elſe to ſink and fall under it, ere it be long? It be<g ref="char:EOLhyphen"/>hooveth us alſo to conſider, That there are d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vers kinds of affairs; ſome whereof are hard, uneaſy and difficult; not ſo much, for that they be weighty and important of themſelves, as for that they be matched and mingled with a mul<g ref="char:EOLhyphen"/>titude of other toylſome and troubleſome buſi<g ref="char:EOLhyphen"/>neſſes which continually attend and wait upon them. I ſpeak not this to diſmay, or ſo to diſ<g ref="char:EOLhyphen"/>courage any man, as to make him decline and eſchew the undertaking of neceſſary and needful. Employments, (ſuch as is this of our Sollicitor) becauſe of the many Encumbrances and Cares wherewith they may be accompanied; ſo that not daring to intermedle with any matter of mo<g ref="char:EOLhyphen"/>ment, he ſhould abide without buſineſs: But this is my whole intent and meaning, that ſeeing a mans life is naturally ſubject to pains, trou<g ref="char:EOLhyphen"/>bles and cares; it behooveth a man ſo wiſely and warily to demean himſelf, that if it be his
+<pb n="4" facs="tcp:46430:6"/>fortune to undertake the managing of any bu<g ref="char:EOLhyphen"/>ſineſſes, he neither be ſo feeble-hearted as to ſhun or relinquiſh them for their difficulty; nor yet ſo fool-hardy as to undertake ſuch affairs as go beyond the reach of his ability. It behooveth therefore diligently to conſider every underta<g ref="char:EOLhyphen"/>king; for, for want thereof, many have fallen into ſuch kind of Employments, as have been painful for them to bear, and yet more uneaſie to be abandoned: which being a caſe of ſo great difficulty, doth require both much prudence and patience; the two only proper remedies to lighten and eaſe an evil: with which two ver<g ref="char:EOLhyphen"/>tues, our Sollicitor ought in an eſpecial manner to be indued, as being to encounter a hard and difficult ſtudy to gain the Knowledge of the Law in ſome reaſonable meaſure, before he can, or ra<g ref="char:EOLhyphen"/>ther ought, to be admitted to the practick part; which as it hath in it ſomething of gain and profit, ſo hath it alſo its extraordinary toyle and labour; which, its true, at the firſt ſeemeth very irkſome and tedious; but, by continual uſage, becomes even as a natural habit. Juſt like poor Priſoners, who ſuffer with great pains and torment at firſt the weight of the fetters that are put upon their legs; but after they are once ac<g ref="char:EOLhyphen"/>cuſtomed thereto, neceſſity teacheth them, by the conſtant wearing thereof, not to think the ſame ſo burdenſome. By which it appears, there is no manner of life, how ſtrict, hard, and
+<pb n="5" facs="tcp:46430:6"/>laborious ſoever it be, which hath not ſome kind of ſollace and refreſhment, one or other, to ſweeten the ſame. And truly there is not any one thing wherein Nature hath ſo much favour<g ref="char:EOLhyphen"/>ed mankind, as this, That ſhe maketh us find the remedy and mitigations of our misfortunes, cares, toyle and labour, even in the very ſuffe<g ref="char:EOLhyphen"/>rance and undergoing of the ſame.</p>
+               <p>The caſe then ſo ſtanding, as it doth, that man is born obnoxious and ſubject unto all manner of miſeries, and that his whole life is nothing but a ſervitude, wherein every one ought to take good heed how to demean himſelf in his Calling, and how he may content himſelf therein, winking at that which is evil in it, and applying himſelf to that which is good: for there is no Calling (as I faid before) howſoever painful and toylſome it be, wherein the patient ſoul doth not find ſome contentment and gain; though that cunning and skill be more exquiſite in time of Adverſity, than of Proſperity: for when as difficulties do preſent themſelves, then muſt we gather all the forces of our wits toge<g ref="char:EOLhyphen"/>ther, and ſet our whole vigour and vertue againſt ſuch eminent and preſent evils.</p>
+               <p>Moreover, Envy and Ambition are the two Cankers that corrupt all that are once tainted therewith, and blear the eyes, ſo that they cannot ſee to perform their duty aright, and as they ought to do. And therefore our Sollicitor
+<pb n="6" facs="tcp:46430:7"/>muſt not bear envy againſt ſuch as are in higher place than himſelf, but ought to content himſelf in his proper ſtation. For it is a main ſtep to attain both Practice, Love and Preferment, when he does prudently and diſcreetly carry himſelf in that Eſtate and Calling which he hath made choice of, taking patiently the evils that fall out therein, and endeavouring to redreſs ſuch Accidents as croſs his deſires. And for this cauſe <hi>Plato</hi> did compare the life of man to the play at Dice, whereat whoſe<g ref="char:EOLhyphen"/>ever doth play, ought alwayes to ſtrive to have a fair throw, and yet ſhould content himſelf with any Caſt that cometh. The want of this ſatisfaction, maketh men of weak wit, upon the fortunate ſucceſs of any buſi<g ref="char:EOLhyphen"/>neſſe, ſo to be elated and tranſported, that they ſcarcely know they do; they grow ſo in<g ref="char:EOLhyphen"/>ſolent, that no man can keep them company; they can abide no body, and no body can abide them: but if either by neglect, want of management, disfavour, or ill fortune, they are croſſed in their deſignes, (though never ſo contrary to Reaſon) they are ſo enraged or amazed, that you ſhall ſee them like unto one ſick of a long and languiſhing diſeaſe, which can nei<g ref="char:EOLhyphen"/>ther abide heat nor cold.</p>
+               <p>The Philoſopher <hi>Theodorus</hi> was wont to ſay, That he gave his Scholars inſtructions and leſſons with the right hand, but that they
+<pb n="7" facs="tcp:46430:7"/>received them with the left. And ſo doth it fare oftentimes with not a few, who with the left hand take hold of that luck, which Providence reacheth to them with the right. It were much better, in my judgment, diſ<g ref="char:EOLhyphen"/>creetly to imitato the wiſe diligence of the Bees; which of Thyme, that is but a dry and harſh herb; extract and confect ſweet and pleaſant honey: ſo ſhould every man in his ſtation, out of the troubles and ſollicitudes of his life, draw whatever is good therein; and in the mean time, chaſe away what is evil, or ſo eaſe and over it, that it may not be diſ<g ref="char:EOLhyphen"/>cerned. And who knoweth not, but that ſuch as exerciſe themſelves in the actions of ver<g ref="char:EOLhyphen"/>tue, can by a ſecret and ſupernatural kind of Alchymy, draw good out of evil? <hi>Diogenes</hi> was baniſhed; but he made good uſe of his baniſhment, in that he did in the mean time betake himſelf unto the ſtudy of Wiſdom. And this ſhall not be ſo difficult and hard to do, as it ſeemeth to be, if by frequent exer<g ref="char:EOLhyphen"/>ciſe he do endeavour to acquire the habitude and ſetled cuſtome of living content in his condition. Can ye not abide in the houſes of Princes or great men? Content you then with your own. Do ye find your ſelf incapa<g ref="char:EOLhyphen"/>ble to govern, or ſit at the Helm in the Com<g ref="char:EOLhyphen"/>monwealth? Play then the good Citizens part, and be content to obey: for it is ex<g ref="char:EOLhyphen"/>pedient,
+<pb n="8" facs="tcp:46430:8"/>that he that will undertake to be a Sollicitor in every way compleat, muſt hold and keep a certain ſtayed and ſetled manner of living, and muſt not vary and change with every winde. Ye may ſee many, much ſub<g ref="char:EOLhyphen"/>ject to this Vice (for ſo I muſt call it) of chan<g ref="char:EOLhyphen"/>ging their manner of living from day to day, ſo that they cannot ground or ſettle themſelves upon any thing whatſoever. They appear like <hi>Proteus,</hi> never long in a ſhape: <hi>modo Cauſidi<g ref="char:EOLhyphen"/>cum, modo Rhetora,</hi> as the Poet ſpeaks; where<g ref="char:EOLhyphen"/>in they reſemble ſuch as have never been ac<g ref="char:EOLhyphen"/>cuſtomed to the Sea, who aſſoon as they begin to ſayl, run out of one Veſſel into another, leaving the bigger to put themſelves into a leſſer, and by ſeaving the leſſer to return to the bigger again. And thus they continue in changing, untill what time they know clearly that nothing can fit them, becauſe that whi<g ref="char:EOLhyphen"/>therſoever they go, their queazy ſtomacks do ſtill keep them company, and conſequently their vo<g ref="char:EOLhyphen"/>miting-diſeaſe.</p>
+               <p>Likewiſe thoſe that bring their paſſions with them unto their affairs, do ſeek inceſſantly af<g ref="char:EOLhyphen"/>ter a new manner of living, and never accom<g ref="char:EOLhyphen"/>pliſh what they have once begun. All things go againſt their ſtomacks, all things diſpleaſe them; whether to be idle, or to be employed; to ſerve, or to command; to be married, or to be ſingle; to have children, or to have none
+<pb n="9" facs="tcp:46430:8"/>at all: finally, nothing doth fit their fancy, no<g ref="char:EOLhyphen"/>thing doth ſatisfy their deſire, ſave only that which they have not: and ſuch me-thinks muſt need, live miſerably and reſtleſly, as Priſoners fettered in perpetual pain.</p>
+               <p>There is likewiſe another manner of men not much unlike the former, that cannot keep themſelves quiet, nor be at any ſettlement, in any time, or in any place. They ceaſe not to go and to come; alwayes intermedling with affairs, without being thereunto called; and buſying and beſtirring themſelves about that which in no wiſe concerneth them. Theſe men, when they go out of doors, they run along the ſtreets; they haunt the publick places, and then they return home full of vexation and wearineſs, without any deſigne: for there is nothing that doth ſo much irk and weary mens minds, as to labour in vain. They are like unto the little Ants, which do creep upwards upon Trees; and after they have mounted up to the top, have but the pains to creep down again the ſame way that they went up, without bringing down with them any good at all. Many live in this manner, whoſe life is nothing elſe but a boyling leiſure, full of tumults and toyls. Ye ſhall ſee them poſting on with ſuch vehemency and ſpeed, as if they would carry away with them all that they find before them. The publick places, the Churches and Mar<g ref="char:EOLhyphen"/>kets,
+<pb n="10" facs="tcp:46430:9"/>are ordinarily full of ſuch Folks. Theſe be they which forge and frame News at pleaſure: They wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l be ſcanners of all mens worths, and the givers of Garlands: Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y will talk laviſhly of other mens lives, and diſcourſe of other mens offices. But the actions of a well-adviſed man, (ſuch as a com<g ref="char:EOLhyphen"/>pleat Sollicitor ought to be) tend alwayes to ſome certain end; neither doth he burthen himſelf with more buſineſſes then he can with conveniency turn his hand to, and put in exe<g ref="char:EOLhyphen"/>cution: according to that of <hi>Cicero, Omnis Cogi<g ref="char:EOLhyphen"/>tatio motuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> animi aut in co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is capiendis de rebus honeſtis, &amp; pertinentibus ad bene beate<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> vivendum; aut in ſtudiis ſcientiae cognitioniſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> verſabitur: Omnes enim trahimur &amp; ducimur ad cognitionis ſcientiae cupiditatem: in qui ex<g ref="char:EOLhyphen"/>cellere p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lchrum putamus; labi autem, &amp; crrare, neſcire, decipi, &amp; malum &amp; turpe ducimus:</hi> That is: <q>Every thought and motion of the mind ought to be employed either in con<g ref="char:EOLhyphen"/>ſulting of honeſt things, and ſuch as may lead to a good and happy life; or in the ſtudy of Arts and Sciences, and the way to gain knowledge: for we are all drawn, or, as it were, led by the hand to a deſire of getting knowledge, and bettering our underſtanding: wherein to excel, is accounted an excellent thing; but to ſtray, deviate, be ignorant, and eaſie to be deceived, not only by others,
+<pb n="11" facs="tcp:46430:9"/>but alſo by our ſelves, is counted a great ſtain to reputation.</q>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> Of the Qualities wherewith a Sollicitor ought to be endowed, to make him compleat.</head>
+               <p>THe former Chapter having treated in ge<g ref="char:EOLhyphen"/>neral of the neceſſity of knowledge to be ſought and acquired by all men, we ſhall in this now deſcend to particularize the qualities wherewith every one ought to be endued, that in<g ref="char:EOLhyphen"/>tends to take on him the buſineſs of Sollicitation. To which purpoſe, we ſhall obſerve five things:</p>
+               <list>
+                  <item>Firſt, He ought to have a good natural wit.</item>
+                  <item>Secondly, That wit muſt be refined by edu<g ref="char:EOLhyphen"/>cation.</item>
+                  <item>Thirdly, That education muſt be perfected by learning and experience.</item>
+                  <item>Fourthly, And leſt, Learning ſhould too much clate him, it muſt be balanced by diſcretion. And,</item>
+                  <item>Fifthly, To manifeſt all thoſe former parts; it is requiſite, that he have a voluble and free tongue to utter and declare his conceipts.</item>
+               </list>
+               <p>Firſt, He ought to have a good natural wit, nor too ſlow nor too quick. Not too ſlow: for men of ſlow capacity are for ſuch weighty under<g ref="char:EOLhyphen"/>takings altogether unfit; their conceit being
+<pb n="12" facs="tcp:46430:10"/>ſo tough, that neither the Rules of Learning' nor Precepts of Wiſdome, nor habit of Virtue, can make any Impreſſion. <hi>Tardis mentibus vir<g ref="char:EOLhyphen"/>tus non committitur,</hi> ſaith <hi>Cicero;</hi> for the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r dul<g ref="char:EOLhyphen"/>neſs is an enemy to Wiſdome, and their ſlowneſs hurtful to the moments of occaſion.</p>
+               <p>Some I have heard of, I confeſs, That in their choice of one to manage their affairs, have elected a man of this diſpoſition; ſurely <hi>contemp<g ref="char:EOLhyphen"/>tu magis quam gratia:</hi> for I ſee no ground to allow their Opinion; ſince thoſe ought to be preferred who are good, and know why they are ſo; whereas theſe ſimple wits are eaſily both altered and deceived.</p>
+               <p>And as they ſhould not herein be too ſlow, ſo neither ſhould their wit be too pregnant and ſharp, leſt it become like a Razor, whoſe edge the keener it is, the ſooner it is reba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed; or like ſoft wood, which is ready to receive the impreſs of the Limner; but is regard of its warping, is unable to keep it, and therefore is not fit for any worthy Portraicture. Men of this diſpo<g ref="char:EOLhyphen"/>fition are of a more quick than ſound conceipt, in all their actions unſtayed and fickle: one while embracing an Opinion, as ſeeming the beſt; then again looking more nearly, and not able to anſwer the doubts which are ready to enter an open invention, fall to a ſtrange kind of uncertainty. In their negotiating of buſineſs, they decree that of other mens proceedings, which
+<pb n="13" facs="tcp:46430:10"/>in their own caſe they would do: and in this ſecurity are oftentimes ſo over-reached by their Adverſary, that they cannot return without great diſadvantage and loſs. Commonly they follow rather ſubtile than wiſe counſels; which, for the moſt part do not ſpeed, being only <hi>prima ſpecie laeta,</hi> thing of appearance, and no ſub<g ref="char:EOLhyphen"/>ſtance, <hi>tractu dura:</hi> for by how much the ſubtilty is greater, by ſo much it is neceſſary that the handling be very curious and exact, elſe they ſort to no end; being like a Clock, which moſt artificially compoſed, is ſooneſt diſordered, and put out of frame: and then they are <hi>Eventu triſtia;</hi> ſo odious and unſavoured, that they are alwayes waited on by a ſiniſter ſucceſs. And therefore wit may in this caſe be ſaid to reſem<g ref="char:EOLhyphen"/>ble the Sun, which ſo long as his beams wan<g ref="char:EOLhyphen"/>der abroad, and diſperſe according to their natural liberty, doth gently warm and cheen the earth; but when they are by a violent reduction contracted and drawn together in the hollow of a burning-glaſs, conſumeth what on<g ref="char:EOLhyphen"/>ly ſhould be refreſhed. In brief, then ſuch ſhould and muſt be the wit that is fit to negotiate affairs, whoſe over-pregnancy muſt be tempered with a meaſure of ſolidity; by which means becoming <hi>actu otioſis ſimillimi,</hi> they diſpach their buſineſs with much moderation. And with ſuch a wit our Sollicitor being endued, will even in the executi<g ref="char:EOLhyphen"/>on perceive; and upon preſent occaſion determine
+<pb n="14" facs="tcp:46430:11"/>and take counſel, as Fencers do in the Liſts, whom the countenance of the Adverſary, the bending of his Body, and the moving of his hands, doth admoniſh how to proportion the diſtance, how to offend where is leaſt ward, and how to defend where there is likely to be made the ſtrongeſt aſſault.</p>
+               <p n="1">1. But it is not enough for our Solliciror to have ſuch a wit, unleſs the ſame be further refined by education. Now education (as the Philoſopher ſpeaks) is a good and continual meaning of the mind: this being indeed the prin<g ref="char:EOLhyphen"/>cipal foundation of all humane happineſs, and as this is the formal cauſe of our life; ſo the efficient both of a clear Underſtanding, and ſo conſequen<g ref="char:EOLhyphen"/>ly of a good life: without which, meh are bur<g ref="char:EOLhyphen"/>thens and eye-ſores to the Commonweal; no<g ref="char:EOLhyphen"/>thing but a cypher—<hi>Et fruges conſumere nati.</hi> Now Education may be atchieved as well by aſſociation as inculcation: for good Company is like a wholeſome Air; a man may profit much even by the changeable interview of a good man. This is a thing of a very great conſequence in young minds, according to that of the Poet, <hi>Quo ſemel eſt imbuta recens ſervabit odorem—Teſta diu</hi> — They are apt to be ſeaſoned either with good or had Reſolutions, and to receive the im<g ref="char:EOLhyphen"/>preſs of any cuſtom, which their fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt company ſhall by the ſilent perſwaſions of their acti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns impoſe upon them. So then, though company is a
+<pb n="15" facs="tcp:46430:11"/>great matter, and will prevail much; yet evil cuſtomes may be deleted, at leaſt altered or a<g ref="char:EOLhyphen"/>mended by inculcation; which muſt not be done with terms of affected indignation, but in a more moderate way, mixing reprehenſions with fair perſwaſions, and laying before the eves of their Underſtanding the gentrous Examples of ſeveral perſons: ſo by recording tractable and officious dutifulneſs, to enſlame them to imitate and ſurpaſs them.</p>
+               <p n="3">3. Having thus both by Precept and Exam<g ref="char:EOLhyphen"/>ple received the benefit of Education towards the refining of his natural wit; it is in the next place neceſſary, that our Sollicitor ſhould be perfected by Learning. Now, although Learning have a private and pleaſing end in it ſelf, as being the harbour where the free and untroubled Conſide<g ref="char:EOLhyphen"/>ration hath a delightful repoſe from the Sea of more unquiet thoughts; yet it is but a ſerving<g ref="char:EOLhyphen"/>quality, preparing the mind to a nobler end of well-doing: for Knowledg or Learning teacheth not her own uſe, but as a neceſſary mean enabl<g ref="char:EOLhyphen"/>eth us to good actions: and it ought to be mea<g ref="char:EOLhyphen"/>ſured by Vertue; and if loved for any rhing, it muſt be becauſe it informeth us to do vertuouſly. It is an excellent Commendation that <hi>Pliny</hi> giv<g ref="char:EOLhyphen"/>eth to <hi>Trajan, Praeſtas quaecun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> tibi praecipiunt, tantum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> eas literas diligis, quantum ab illis proba<g ref="char:EOLhyphen"/>ris.</hi> We muſt uſe the Precepts of Learning as the Laws of our behaviour; we muſt remember,
+<pb n="16" facs="tcp:46430:12"/>that the glory and encreaſe of Knowledg conſiſts in the exerciſing of Goodneſs; and the maſ<g ref="char:EOLhyphen"/>culine and active power of the mind muſt be joy<g ref="char:EOLhyphen"/>ned thereto, to make us perform good and great things. But as it is to be followed, ſo it is not to embraced with too vehement fervency: but let that ſaying of <hi>Cato</hi> be remembred, <q>That active minds cannot be with a more honeſt idleneſs, then the ſtudy of Letters, corrupted; not idle<g ref="char:EOLhyphen"/>neſs by any greater or more dangerous policy find eaſie entertainment in a well-governed Commonweal.</q>
+               </p>
+               <p>This Learning will at length teach to lay hold on another moſt excellent branch of her ſelf, which is, Experience: and indeed it is the moſt entire part of Learning, without which, the moſt abſolute Schollars and learnedeſt men cannot attain to any degree of perfection in civil actions. For there is more of certainty in the Principles of Practice, then in the moſt neceſſary Demonſtrations or cleareſt diſcourſes of Reaſon. And theſe men that are intendants, (as our Sol<g ref="char:EOLhyphen"/>licitor ought to be) and practized in the Occur<g ref="char:EOLhyphen"/>rents of Courts, are fitter for any active employ<g ref="char:EOLhyphen"/>ment, and can with better eaſineſs diſpatch any buſineſs: <hi>Quoniam enim habent oculum ab ipſa experientia, vident ipſum principium.</hi> Theſe be<g ref="char:EOLhyphen"/>come as it were Truſty Oracles, on whoſe judg<g ref="char:EOLhyphen"/>ment a man may ſafely repoſe his whole fortunes: they are on earth, <hi>inſtar praeſciorum
+<pb n="17" facs="tcp:46430:12"/>numinum;</hi> whoſe advice a man ought to take, before he engage himſelf in any action.</p>
+               <p>For the mean by which Wiſdom enableth to foreſee a ſucceſs, and accordingly, after due Conſideration, rule the preſent, is Conjecture; which by comparing things paſſed, preſuppoſeth out of the ſame cauſes the ſame effects. Now in this obſcure and incertain deliberation upon the future, our Sollicitor being experienced, is like him, who having tryed a dangerous paſſage in his own perſon, and noted the by-turnings which might divert him into an Errour, can in the darkeſt night, with a ſecure and forward alacrity, go the ſame; and overcoming all diffi<g ref="char:EOLhyphen"/>culties, arrive at the appointed place: whereas another, though furniſhed with the ſoundeſt directions, (yet never having proved it) quak<g ref="char:EOLhyphen"/>eth at every ſhadow; and having his ſpirits ſhut up in amazement, plainly hazardeth his per<g ref="char:EOLhyphen"/>ſon. Now the Rules to perfect this Experience in our Sollicitor, are, to frequent the Courts of Juſtice, as Free-Schools of civil Learning; to endeavour to underſtand all Occurrences there<g ref="char:EOLhyphen"/>in; to confer thereof with men expert, real, of a deep inſight, ſuch as are not carried away with apparences, but <hi>can ſpy day at a little hole,</hi> (as the Proverb ſpeaks) and make judgment out of matters themſelves, and diſcern between truth, and truth's likeneſs, and know when covert deſignes are the foyls of more eminent intenti<g ref="char:EOLhyphen"/>ons.</p>
+               <pb n="18" facs="tcp:46430:13"/>
+               <p n="4">4. And now our Sollicitor being thus forward toward perfection, leſt he ſhould be too much elated and puft up, all thoſe his foregoing parts muſt be ballanced and kept eaven, by the unby<g ref="char:EOLhyphen"/>aſſed Rules of a ſound Judgment and ſolid Diſ<g ref="char:EOLhyphen"/>cretion, which ſhould be the balance in which he ſhould weigh all his actions.</p>
+               <p>The firſt part hereof is Deliberation; in which he muſt neither reſolve with haſte nor affection: the one not giving time enough to diſcuſs thoſe things which ought to be conſide<g ref="char:EOLhyphen"/>red; the other ſo occupying the mind, that no thought can creep in, which doth not in all re<g ref="char:EOLhyphen"/>gards conform it ſelf to give ſufferance to that paſſion. He muſt promiſe himſelf nothing, be<g ref="char:EOLhyphen"/>fore his Conceptions are by great preſumptions aſſured of ſucceſſe: for the fervency of hope maketh men ſomewhat more retchleſly negli<g ref="char:EOLhyphen"/>gent; inſomuch that when they are diſappoin<g ref="char:EOLhyphen"/>ted, they are as impatiently grieved, as if they had fallen from an eſſential felicity. Like No<g ref="char:EOLhyphen"/>vice-Marchants, who fore-counting great gains, and failing of their freſh expectation, are ſud<g ref="char:EOLhyphen"/>denly embarked in that irrecoverable miſchief of Debt.</p>
+               <p>Another point of diſcretion which he ought to make uſe of, is, <hi>Principiis obſtare,</hi> to provide at the beginning, and not linger till he be ſur<g ref="char:EOLhyphen"/>prized both in his buſineſs and judgment; And what he cannot compaſs at the firſt, it is beſt
+<pb n="19" facs="tcp:46430:13"/>by timing and waiting to expect an opportuni<g ref="char:EOLhyphen"/>ty: for often, things by time receive contrary revolutions, and conclude clean different from their apparence and likelihood. And although he may ſometimes wait long, yet he muſt continue in Action, and managing of the matter: ſo may new buſineſſes ariſe out of the former, both by reaſon of the coherency and way that opens one to another. Herein muſt be obſerved that of <hi>Ci<g ref="char:EOLhyphen"/>cero;</hi> he muſt <hi>non ſolum animis, ſed etiam oculis ſervire civium:</hi> he muſt not think himſelf diſ<g ref="char:EOLhyphen"/>charged, except he accompany his actions with fair likelyhoods. This, if it be not affected, ſets a ſplendour, and gives a grace to our actions; teaching us to put a difference in perſons, and with divers natures to treat diverſly, applying to every mans humour.</p>
+               <p>Some men are ſo incapable, that they make ſmall things great, eaſy buſineſſes impuſſible: and enter prize nothing, which through their per<g ref="char:EOLhyphen"/>verſneſs, is not with difficulty accompliſhed; whoſe folly a man may compare to the unskil<g ref="char:EOLhyphen"/>fulneſs of ſome Chirurgions, who in ſtead of hea<g ref="char:EOLhyphen"/>ling, feſter a wound; and in ſtead of mitigati<g ref="char:EOLhyphen"/>on, make the torments more grievouſly dange<g ref="char:EOLhyphen"/>rous: whereas expert ones do with gentle Leni<g ref="char:EOLhyphen"/>tives redreſs the malady, before the Patient have any thorow ſenſe or feeling of pain. So our Sol<g ref="char:EOLhyphen"/>licitor being thus guided by diſcretion, and ha<g ref="char:EOLhyphen"/>ving his ſpirit awaked to all circumſtances, doth
+<pb n="20" facs="tcp:46430:14"/>manage matters with a more delicate deport<g ref="char:EOLhyphen"/>ment; and by certain premiſed Preparatives, ſo diſpoſeth the mind of the other Agent, as it may be apt to receive any form which ſhall be im<g ref="char:EOLhyphen"/>poſed; uſing the ſame Conſideration which good Players at Tennis have, who, not to ſuffer a reſt, do not only ſtand attentive to ſend it to their Companion, but with like heed provide to re<g ref="char:EOLhyphen"/>take it, by accommodating their perſon, and ex<g ref="char:EOLhyphen"/>pecting it in the likelyeſt place: ſo he, to avoid all hinderances, doth not only ſuit his own words, but alſo gives favourable Conſtructions to the ſpeeches of the other Agent, by diſſembling the diſcontentments which might ariſe. In brief, ſome few other Rules for our Sollicitor's diſcre<g ref="char:EOLhyphen"/>tion, may be theſe: He muſt avoid ſudden chan<g ref="char:EOLhyphen"/>ges, for that doth hold of violence; and, <hi>Nullum violentum eſt diuturnum.</hi> Again, he muſt ſettle more aſſurance in him that doth expect, than in him who hath received, a benefit; for by ſpee<g ref="char:EOLhyphen"/>ding in ſuits, men become ſlack waiters; when hope of gaining will certainly keep them in due devotion. He muſt alſo be wiſely diffident, and put on a judicial diſtruſt: put on, I ſay, becauſe there is nothing leſs familiar and eaſy to honeſt men, then to ſuſpect warily.</p>
+               <p>Having thus far trained him up in the way to perfection, and laid him down ſome few Rules to walk by, come we now in the laſt place to ſhew how,</p>
+               <pb n="21" facs="tcp:46430:14"/>
+               <p n="5">5. He ſhall manifeſt the ſame, and com<g ref="char:EOLhyphen"/>ment on his actions. To which purpoſe it is neceſſary that he have a free and voluble tongue to utter and declare his conceits; in the uſe whereof, it is neceſſary that he avoid affectation, and that his ſpeech be honeſt, com<g ref="char:EOLhyphen"/>ly, ſignificant, expreſſive, proper, and void of all fear and effeminate terms, without any diſ<g ref="char:EOLhyphen"/>ſimulation: for doubtfull and ambiguous words, with particular ceſerves, cafgues a baſe mind, and imbecillity of ſpirit. He muſt not alwayes ſhew himſelf a Scholer, but ſparing<g ref="char:EOLhyphen"/>ly, and when ſit occaſion requires it: for ſometimes to uſe conceits of Learning as Em<g ref="char:EOLhyphen"/>broideries, is requiſite; but then it ſhould be in an hidden manner, like as Apparel doth re<g ref="char:EOLhyphen"/>preſent the proportion, but not the barrenneſs of our members: but generally, it is the grea<g ref="char:EOLhyphen"/>teſt wiſdome rather to attend others, then to be an eloquent Merchant of ſelf conceits: for men expert and practiſed, can out of another mans words deduce great conſequences, and take light of matters of great importance.</p>
+               <p>With theſe five Qualities ſo rectified as a<g ref="char:EOLhyphen"/>foreſaid, our Sollicitor being rightly, adorned, he ſhall he able with credit to run through all the hazards and difficult nies which in his pra<g ref="char:EOLhyphen"/>ctice he ſhall or may meet with.</p>
+               <pb n="22" facs="tcp:46430:15"/>
+               <p>
+                  <hi>Object.</hi> But here I meet with an Objecti<g ref="char:EOLhyphen"/>on <hi>viz. What need is there of all this coyle and ado about a Sollicitor? Do not all men know, there are many Sollicitors who have much pra<g ref="char:EOLhyphen"/>ctice and great dealing, that have never been bred to any of thoſe things? ſimple follows, who had not wit or honeſty enough to learn a mean Trade, and in truth cannot write their own names, and yet are accounted brave fellows in that buſineſs?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> To this I anſwe: True it is, and to the ſhame both of the Law and the Pro<g ref="char:EOLhyphen"/>feſſors thereof be it ſpoken, that will ſuffer ſuch fellows by their ignorance and deceits to abuſe ſo many as they daily do. 'Tis by the means of theſe cheating devouring Caterpil<g ref="char:EOLhyphen"/>lers, that the honourable Profeſſors of the Law are ſo often cryed out upon for bribing and taking exceſſive Fees; and it will be no wonder hereafter if <hi>Ignoramus</hi> be revived, when ſuch a company of ſimple <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhall be ad<g ref="char:EOLhyphen"/>mitted or ſuffered to uſurp (and therein abuſe and make vile) the worthy name of a Lawyer. It is an abuſe well worthy to be inſpected by the diſcerning eyes of the learned Judges of the Land, and ſome ſevere courſe to be taken for the remedy thereof; whereof, under favour and permiſſion, I ſhall make bold only of one ſmall hint, as follow.</p>
+               <p>Whereas now every idle fellow, whoſe pro<g ref="char:EOLhyphen"/>digality
+<pb n="23" facs="tcp:46430:15"/>and ill husbandry hath forced him out of nis trade or employment, takes upon him to be a Sollicitor; and thereby not only by their multitudes and ſwarming in every corner, they who have been at great labour, expence and ſtudy, either can have no pra<g ref="char:EOLhyphen"/>ctice at all, or at beſt ſo little that it is not worthy their looking after; and not only ſo, but the Clyent alſo receives a double damage; firſt, in the tedious delay, and ſometimes the loſs of his cauſe; and then in the vaſt expence of his money, whereof he can have no ac<g ref="char:EOLhyphen"/>count: for remedy whereof, it would be well that it ſhould be declared, That no man ſhould dare to undertake to be a Sollicitor, ei<g ref="char:EOLhyphen"/>ther at Common Law or in Equity, unleſs he had for five years before at leaſt been of ſome of the Inns of Court, or Inns of Chancery, and ſhall be legally admitted and entred in a Roll for that purpoſe, to be kept in the Pettybag-Office in Chancery, under a certain pain and puniſhment; and that no Clyent do entertain any other than one ſo qualified; by which means, if any abuſe be offered, the Court may take a Cognizance thereof, and puniſh the ſame. This ſhall ſuffice to have ſpoken in an<g ref="char:EOLhyphen"/>ſwer to that Objection: I ſhall now proceed, and ſhew the dury of our Sollicitor, both in what he ought to do, and what he ought to
+<pb n="24" facs="tcp:46430:16"/>know. But for that, I ſhall refer you to the next and following Chapters.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> What our Sollicitor ought to know, the better to enable him in his practice.</head>
+               <p>AS we ſuppoſe, our-Sollicitor to be chiefly, if not wholly concerned in matters of Equity; ſo we ſhall to that purpoſe inform him, that he muſt of neceſſity be knowing in Courts of Equity: whereof the Chancery in this Kingdome being indeed the chief and on<g ref="char:EOLhyphen"/>ly lawfull Court, if ſo be that he be truly in<g ref="char:EOLhyphen"/>ſtructed therein, it will be ſufficient to guide him in all the reſt. Therefore.</p>
+               <p>In this Court the Lord Chancellor of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> is the chief Judg; who in caſe of ſick<g ref="char:EOLhyphen"/>neſs, infirmity, or other extraordinary buſi<g ref="char:EOLhyphen"/>neſs, may depute one of the Judges to ſit in his place at any time: but in the Terms, the Maſter of the Rolls is equall with, him, and ſitteth at <hi>Weſtminſter-Hall</hi> in the mornings; and three dayes in every week, during the con<g ref="char:EOLhyphen"/>tinuance
+<pb n="25" facs="tcp:46430:16"/>of the Terms, ſitteth alone, aſſiſted by two Maſters of the Chancery, in the Chap<g ref="char:EOLhyphen"/>pel of the Rolls: and theſe in their ſeveral places, in manner aforeſaid, do make Orders and Decrees.</p>
+               <q>The ſubordinate Officers of this Court are many.</q>
+               <p>The twelve Maſters in ordinary, which are Aſſiſtants both to the Lord Chancellor and Maſter of the Rolls, as aforeſaid, and ſit with them; and to whom References are made, and before whom Deeds and Recognizances are acknowledged, and Affidavits made. This formerly might have been done before any Maſter at his own bouſe, by the option of the party concerned: but now, by an Act of Parliament made in the thirteenth year of King <hi>Charls</hi> the ſecond'<hi>s</hi> Reign, there is a general Office erected for the ſaid Maſters, wherein there are at certain hours every day, at leaſt two Maſters attending to diſpatch the ſaid buſineſs; which may not be done other<g ref="char:EOLhyphen"/>wiſe, or other-where, but by ſpecial Order.</p>
+               <p>The Regiſter of the Court, who hath divers under him that ſit in Court, and take notice of all Orders and Decrees made in Court, ei<g ref="char:EOLhyphen"/>ther before the Chancellor or Maſter of the Rolls; and accordingly afterwards, at the re<g ref="char:EOLhyphen"/>queſt
+<pb n="26" facs="tcp:46430:17"/>of the party concerned, or his Sollici<g ref="char:EOLhyphen"/>tor, draw up thoſe Orders and Decrees which are afterwards to be entred in the ſaid Office, in a Book of Entryes to that purpoſe kept; and being ſo entred, they muſt be returned to the Regiſter; who having ſet his hand thereto, the ſame thenceforth are authentick, and may not be altered without eſpecial order from the Court. In this Office alſo are filed all Reports from the Maſters, and all exceptions taken to any of the ſame Reports.</p>
+               <p>The ſix Clerks, in whoſe Office all procee<g ref="char:EOLhyphen"/>dings upon Bill and Anſwer, unto the very Decree, yea, and after Decree, are acted; and from whom likewiſe iſſue ſome Patents, as for pardon of a man for Chance-medly, Pat<g ref="char:EOLhyphen"/>tents for Embaſſadors, Commiſſions for Bank<g ref="char:EOLhyphen"/>rupts: and theſe are done by their ſitting Clerks, of which each Six-Clerk keeps a ſet number.</p>
+               <p>The Curſitors of the Court, who were in<g ref="char:EOLhyphen"/>corporated, by Queen <hi>Elizabeth,</hi> by the name of the Twenty four Curſitors; amongſt whom all the buſineſs that lyes in the ſeveral Shires is ſeverally diſtributed. Theſe make all Ori<g ref="char:EOLhyphen"/>ginal Writs in the Chancery, which are re<g ref="char:EOLhyphen"/>turnable in the Common Pleas; and all Writs of Entry, and Covenants.</p>
+               <p>The Maſters of the <hi>Subpoena</hi>-Office, the
+<pb n="27" facs="tcp:46430:17"/>Clerk of the Affidavits, where all Affidavits are to be filed which you would uſe in Court. Heretofore they uſed them in Court, and after filed them; but now they muſt be firſt filed, and a Copy thereof taken to be read in Court, or elſe they ſignify nothing.</p>
+               <p>The Clerks of the Petty-bag, who have ma<g ref="char:EOLhyphen"/>ny Clerks under them; and theſe Clerks have much variety of buſineſs that comes through their hands, and requires very much knowledg and experience for the managing thereof: for this Office hath the making out of all Writs of Summons to the Parliament. To this Office are all Offices that are found <hi>poſt mortem,</hi> brought to be filed. In this Office are all Pleadings of the Chancery concerning the validity of any Patent, or other thing whatſoever that paſſeth the Great Seal. And theſe Pleadings are all in Latine, although moſt of the reſt of their Proceeds were in En<g ref="char:EOLhyphen"/>gliſh. If any queſtion ariſe about the acknow<g ref="char:EOLhyphen"/>ledgment of any private Deed between Sub<g ref="char:EOLhyphen"/>jects, which is acknowledged in Chancery be<g ref="char:EOLhyphen"/>fore the Lord Chancellor or Maſter of the Rolls, or any of the Maſters in Chancery; and all Statutes and Recognizances taken be<g ref="char:EOLhyphen"/>fore any Officers to that purpoſe deputed, are tranſmitted hither, and here proſecuted. Here alſo are all ſuits for or againſt any perſon pri<g ref="char:EOLhyphen"/>viledged
+<pb n="28" facs="tcp:46430:18"/>in the Court. And laſtly, It is a hand whereby to tranſmit divers things from the riding Clerk and the Inrolment-Office, to the Chappel of the Rolls.</p>
+               <p>The Examiners are Officers of this Court, who take the Depoſitions of Witneſſes, and are to examine them, and to make out Copies of the Depoſitions.</p>
+               <p>There are likewiſe Clerks of the Rolls, who ſit conſtantly in the Rolls to make ſear<g ref="char:EOLhyphen"/>ches for Deeds, Offices, &amp;c. and to make out Copies thereof.</p>
+               <p>The Uſhers of the Court hath the recei<g ref="char:EOLhyphen"/>ving and cuſtody of all monies ordered to be depoſited in Court, and maketh Certificates thereof, and payeth the ſame back again by order of the Court, and not otherwiſe.</p>
+               <p>The Serjeant at Arms, who carrieth the Mace before the Lord Chancellor; to him all perſons, ſtanding in high contempt, are brought up by his Subſtitutes as priſo<g ref="char:EOLhyphen"/>ners.</p>
+               <p>The Warden of the Fleet likewiſe is bound to attend this Court, to receive ſuch priſoners as ſtand committed by the Court to him.</p>
+               <p>The Court conſiſts of a double power, or<g ref="char:EOLhyphen"/>dinary and extraordinary: the ordinary power is (as in the caſes of <hi>Scire facias</hi>) to repeal Patents in caſe of Traverſe, Endowment of a
+<pb n="29" facs="tcp:46430:18"/>Woman, and the like: and herein the Court is limited and confined to the Rules uſed in Common Law. The other is extraordinary and unlimited, (as in caſes of Equity) where<g ref="char:EOLhyphen"/>in relief is to be had by a Suit here by way of Bill and Anſwer.</p>
+               <p>By the power of this Court are iſſued forth Commiſſions for charitable Uſes, Bankrupts and Sewers. In ſome caſes Commiſſions have been here granted to examine Waſtes, to ſet out meet wayes for Paſſages, to prove a Childe legitimate, to prove Cuſtomes, and to examine Witneſſes <hi>in perpetuam rei memo<g ref="char:EOLhyphen"/>riam.</hi>
+               </p>
+               <p>It proceeds by way of Bill and Anſwer, and gives relief in many caſes beſides, and beyond the Rules of the Common Law: whereof practice will ſhew many experiments.</p>
+               <p>And to this purpoſe, it is neceſſary for our Sollicitor to read <hi>Tothills</hi> and <hi>Caryes</hi> Re<g ref="char:EOLhyphen"/>ports.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="30" facs="tcp:46430:19"/>
+               <head>
+                  <hi>CHAP. IV.</hi> Of the whole duty of our Sollicitor in his Practice.</head>
+               <p>HAving in the former Chapter gone through the moſt neceſſary things which our Sollicitor ought to know barely; it re<g ref="char:EOLhyphen"/>mains now, we ſhould come to the practick part of it; wherein we ſhall ſet down plain and eaſy Directions for the greateſt part of their manner of proceedings; wherein, for methods ſake, we will begin with their firſt Proceſs, called a <hi>Subpoena.</hi>
+               </p>
+               <p>This Writ of <hi>Subpoena</hi> is the leading Pro<g ref="char:EOLhyphen"/>ceſs of this Court, as to the procedure, by Bill and Anſwer; and is a cloſe Writ, and doth require the Defendants appearance in Court at a certain day, and under a certain pain therein limited, to make anſwer to the complaint of the Plaintiff, which is indeed the Bill: which in former times was wont to be put in, before the <hi>Subpoena</hi> ſued forth; but now of long time hath been otherwiſe uſed. This firſt <hi>Subpoena</hi> is called <hi>Subpoena ad re<g ref="char:EOLhyphen"/>ſpondendum;</hi> and is diſtinguiſhed by that
+<pb n="31" facs="tcp:46430:19"/>name, becauſe there are ſeveral other <hi>Sub<g ref="char:EOLhyphen"/>poena</hi>'s in order to further proceeding; as, a <hi>Subpoena</hi> for Coſts, a <hi>Subpoena</hi> to make a bet<g ref="char:EOLhyphen"/>ter anſwer, a <hi>Subpoena</hi> to rejoyn, a <hi>Subpoena</hi> for Wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neſſes to teſtifie, a <hi>Subpoena</hi> to hear Judgment, and a <hi>Subpoena ducens tecum,</hi> for Writings, Evidences, &amp;c. Touching the <hi>Sub<g ref="char:EOLhyphen"/>poena</hi> to anſwer, you muſt be very careful that there be no miſtake in the body of the Writ; for that may prejudice the Plaintiff; and the Defendant may take advantage thereof, if he find it: but if there be a miſtake only in the Label, no advantage can be taken by it. In none of theſe Writs may there at any time be put more then three names.</p>
+               <p>This Writ may be returnable two wayes: either upon the common dayes of Return, as <hi>die Jovis proximè poſt tres Michaelis;</hi> or elſe upon any day certain, which now is the moſt uſual courſe. And it is to be ſerved before the Return thereof be paſt: and this is to be done either by the delivery of the Writ it ſelf under Seal to the Defendant in perſon, or by ſhewing to him the Writ under Seal, deli<g ref="char:EOLhyphen"/>vering him a Note or Label of the day of his appearance. And this laſt courſe is moſt uſual, becauſe oftentimes there are more per<g ref="char:EOLhyphen"/>ſons than one in the <hi>Subpoena,</hi> and then the body of the Writ is reſerved to be left with the
+<pb n="32" facs="tcp:46430:20"/>laſt. Neither indeed is it at all required to ſerve this Writ perſonally: for it hath often been declared a good Service, when the Writ or Label thereof hath only been left at the Defendants Dwelling-houſe, with ſome rela<g ref="char:EOLhyphen"/>ting to him, and Affidavit thereof made; otherwiſe, no contempt can be grounded there<g ref="char:EOLhyphen"/>on. And where a Defendant doth hide him<g ref="char:EOLhyphen"/>ſelf, or refuſe to be ſpoken with, it hath been allowed to be good ſervice, to leave the Writ hanging upon the door of the Houſe, or to put it into the houſe under the door, or in at the window of the houſe of his uſual Reſidence. Alſo it is taken for a good ſervice, although it be ſerved on the fame day, it is returnable, if it be ſerved before Noon of that day, or be<g ref="char:EOLhyphen"/>fore the riſing of the Court. Where a <hi>Sub<g ref="char:EOLhyphen"/>poena</hi> is had againſt Husband and Wife, and the husband alone is ſerved, and hath notice, that it is againſt him and his wife; this is a good ſervice to both; and for want of an ap<g ref="char:EOLhyphen"/>pearance, an attachment may be had either againſt the wife only, or both. The <hi>Subpoena</hi> being ſerved as aforeſaid, the Bill muſt be put in, in due time; or elſe the Defendant will have coſts: to prevent which, you muſt take notice what time is prefixed for the exhibiting the Bill, after the return of the <hi>Subpoena:</hi> which is thus; If the <hi>Subpoena</hi> be returnable
+<pb n="33" facs="tcp:46430:20"/>upon a general Return-day, as <hi>Craſti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o Octa<g ref="char:EOLhyphen"/>bis, Tres Menſ. &amp;c. poſt, &amp;c.</hi> then hath the Plaintiff time to put in his Bill untill the ſecond day before Noon next following, being the fourth day following every of the ſaid Re<g ref="char:EOLhyphen"/>turns; and you muſt account the Return-day, and the fourth day after it, for two of the ſaid four day. But where the <hi>Subpoena</hi> is returna<g ref="char:EOLhyphen"/>ble upon a certain day of the Month, then the Bill muſt be filed the ſecond day after be<g ref="char:EOLhyphen"/>fore Dinner. And if the Bill be not filed, (the <hi>Subpoena</hi> being returnable on a certain day of any moneth) then the Defendants ap<g ref="char:EOLhyphen"/>pearance being entred, his Clerk in Court may prefer coſts the next day after: and if the Bill come not in the next day after coſts ſo preferred, before Noon, or preſently after Dinner; then the Defendant is diſcharged with ſuch coſts as a Maſter of the Court ſhall tax him. But where the <hi>Subpoena</hi> is returna<g ref="char:EOLhyphen"/>ble on a Return day, the next day after the fourth day is coſts day: and if the Bill come not in the next after the coſts day, as afore<g ref="char:EOLhyphen"/>ſaid, (the coſts being preferred the day be<g ref="char:EOLhyphen"/>fore) then the Defendant is diſcharged from attendance, as aforeſaid, with his coſts.</p>
+               <p>Where the coſts are not voluntarily paid for want of a Bill, by the Plaintiff or his Clerk, to the Defendant or his Clerk; in ſuch caſe
+<pb n="34" facs="tcp:46430:21"/>the Defendant may have a <hi>Subpoena</hi> for the ſaid coſts, which muſt be perſonally ſerved on the Plaintiff: and if thereupon the coſts be not yet paid, then the Defendant may (up<g ref="char:EOLhyphen"/>on Affidavit made and filed, that the ſaid <hi>Subpoena</hi> was ſerved) have an Attachment di<g ref="char:EOLhyphen"/>rected to the Sheriff of the County where the Complainant lives, to attach him for the ſaid coſts: and if the Sheriff make return, upon the attachment, that the Complainant cannot be found, then a Proclamation may be ſued out againſt him; and that alſo being returned with a <hi>Non eſt inventus,</hi> then a Com<g ref="char:EOLhyphen"/>miſſion of Rebellion may be taken forth.</p>
+               <p>On the other ſide, if the Plaintiff do in due time file his Bill, and the Defendant ap<g ref="char:EOLhyphen"/>peareth not the next day after coſts day; then the Complainant, upon Oath made, That the Defendant was ſerved with the <hi>Sub<g ref="char:EOLhyphen"/>poena,</hi> may have an Attachment; and if the Sheriff return <hi>Non eſt inventus</hi> thereon, he may ſue out a Proclamation and Commiſſion of Rebellion in manner aforeſaid, ſucceſſively one after another.</p>
+               <p>The Affidavit that muſt be made of the ſervice of the <hi>Subpoena,</hi> muſt be made accor<g ref="char:EOLhyphen"/>ding as the manner of the ſervice was: for if the Affidavit made, do not prove a good ſer<g ref="char:EOLhyphen"/>vice, as before is ſet forth, then no attach<g ref="char:EOLhyphen"/>ment
+<pb n="35" facs="tcp:46430:21"/>can be had upon it: for there can be no attachment regularly made out againſt the Defendant for not appearing, untill there be a certain and poſitive Oath made of the time, place, and manner of ſerving the <hi>Subpoena,</hi> in<g ref="char:EOLhyphen"/>ſetting therein the Return of the Writ.</p>
+               <p>And where any perſon ſerved with a <hi>Sub<g ref="char:EOLhyphen"/>poena</hi> doth injury or wrong, either by word or deed to the party who acted in the ſervice of it, or doth ſet at nought or contemn the Writ it ſelf, or the Authority of the Court from whence it iſſues; upon Oath made there<g ref="char:EOLhyphen"/>of, and motion thereupon, ſuch perſon will be committed to the Fleet.</p>
+               <p>Where there is appearance made by the Defendant within the time limitted, and the Bill alſo filed; in ſuch caſe, upon a Rule gi<g ref="char:EOLhyphen"/>ven by the Plaintiffs Clerk to the Defendants Clerk, &amp; the ſame entred into the Regiſter, the Defendant is to anſwer to the Bill by the ſame day ſeven-night then next to come: which if he fail to do; and do not otherwiſe in that time ſatisfy the Court, by ſhewing ſufficient cauſe of ſuch his delay, then the Complainant's Clerk may make out an Attachment againſt him.</p>
+               <p>Now this Writ of Attachment cannot be duly had, unleſs the <hi>Subpoena</hi> before-going were duly obtained: for if the <hi>Subpoena</hi> be
+<pb n="36" facs="tcp:46430:22"/>counterfeit, or if true, not legally ſerved, the Attachment is irregular; and the Defendant arreſted by it, upon diſcloſing the matter to the Court, will be diſcharged thereof: whereas an Attachment duly gotten, may not be diſcharged till the Defendant have firſt paid 25 <abbr>
+                     <hi>s.</hi>
+                  </abbr> coſts; and every ſucceeding Pro<g ref="char:EOLhyphen"/>ceſs, double ſo much; and upon account thereof, he is diſcharged of courſe.</p>
+               <p>The Husband appeared, and the Wife not: an Attachment was granted againſt both. <hi>Ab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lls</hi> Caſe; 19 <hi>Eliz. Caryes</hi> Rep. 65.</p>
+               <p>So he alone appeared, and put in a Demur<g ref="char:EOLhyphen"/>rer in both their names, without excuſing her: Attachment was granted againſt both. <hi>Spi<g ref="char:EOLhyphen"/>cers</hi> Caſe, <hi>Caryes</hi> Rep. 39.</p>
+               <p>The Defendant made Oath, He could not anſwer without ſight of Evidences, and had time given him, and afterwards put in a De<g ref="char:EOLhyphen"/>murrer: Attachment went out againſt him <hi>Paſch.</hi> 21: <hi>Eliz. Farmers</hi> Caſe.</p>
+               <p>Where the Defendant is ſerved with a <hi>Sub<g ref="char:EOLhyphen"/>poena;</hi> and afterwards, for not appearing, an Attachment iſſues againſt him, if he do not appear thereon, but ſuffer a <hi>Non eſt inventus</hi> to be returned, there will go out Proclamati<g ref="char:EOLhyphen"/>on of Rebellion againſt him. Yet note, That the Proceſs of Contempt, and all Attachments in Proceſs, are to be diſcharged upon the
+<pb n="37" facs="tcp:46430:22"/>Defendants payments of the ordinary coſts of the Court to the Plaintiffs Clerk, or his ten<g ref="char:EOLhyphen"/>der thereof to the ſame, and his refuſal to take it, and filing of the Plea, Anſwer or Demur<g ref="char:EOLhyphen"/>rer, as the caſe merits, without any motion: and if the Plaintiff do proſecute the Contempt afterwards, the Defendant will be diſcharged with coſts.</p>
+               <p>Where an Attachment is had, if the She<g ref="char:EOLhyphen"/>riff do not make his Return, a day will be gi<g ref="char:EOLhyphen"/>ven; and if he do not by that time, the Court will ſet an Amerciament upon him.</p>
+               <p>Where any party is attached, and afterward proclaimed, and he comes not in, but ſtands further out in contempt, in ſuch caſe a Com<g ref="char:EOLhyphen"/>miſſion of Rebellion may be iſſued forth againſt him, for the apprehending of him, and bringing him into the Fleet, (the proper Priſon of this Court) and this Commiſſion of Rebellion is ſometimes directed to the She<g ref="char:EOLhyphen"/>riff, and ſometimes to private perſons; as in the Caſe of <hi>Gage</hi> and <hi>Etrington, Trin.</hi> 38. <hi>Jacob. Tethil.</hi> 37. This courſe is likewiſe taken againſt thoſe that perform not obedience to Orders or Decrees to pay coſts, or the like.</p>
+               <p>Where private perſons are made Commiſ<g ref="char:EOLhyphen"/>ſioners, and to take the perſon in contempt; if they ſuffer him to eſcape, the Sollicitor
+<pb n="38" facs="tcp:46430:23"/>may by motion get them committed, till they bring him in; as in the Caſe of <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>che<g ref="char:EOLhyphen"/>vorel</hi> againſt <hi>Sachevorel, Hill.</hi> Term, 18. <hi>Jacob. Tothil.</hi> 38.</p>
+               <p>If any perſon reſcue one taken by a Com<g ref="char:EOLhyphen"/>miſſion of Rebellion, the Reſcuer may be gotten to be committed. And if the Commiſ<g ref="char:EOLhyphen"/>ſioners, upon ſuch a Commiſſion, let the party in contempt go where he liſt, whereby he make an eſcape, they may be procured to be committed to the Fleet, till they pay the Debt. See <hi>Nelſons</hi> Caſe againſt <hi>Yelverton</hi> in <hi>Trin.</hi> 18 <hi>Jacob. Tothil.</hi> 39.</p>
+               <p>If a party appears not, but ſtands further out in contempt, a Sergeant at Arms may be ſent out to take him: and if he cannot, either by reaſon of his hiding or reſiſtance; or having taken him, he eſcape, and ſo perſiſt higher in his contempt; in ſuch caſe, a Se<g ref="char:EOLhyphen"/>queſtration may be obtained, upon a motion and Affidavit thereof, of his Land: and if the Suit be for Land, a Sequeſtration and Injunction for the profits of the Land, to be delivered to the Plaintiff by the Sheriff, or other Commiſſioners for that purpoſe: as in the Caſe of <hi>Boles</hi> againſt <hi>Walleg</hi> and his wife. <hi>Caryes</hi> Rep. 38, 58, 105, 109.</p>
+               <p>In all theſe Caſes, it behooves a good Sol<g ref="char:EOLhyphen"/>licitor to be careful, watchful, and diligent,
+<pb n="39" facs="tcp:46430:23"/>that he may not ſlip any opportunity that may work for the advantage, benefit, and be<g ref="char:EOLhyphen"/>hoof of his Clyent and his Cauſe.</p>
+               <div n="2" type="section">
+                  <head>SECT. 2.</head>
+                  <p>THe next part of our Sollicitor's practice, is to be skilled in Bills and Anſwers, and the ſeveral proceedings thereupon: wherein he muſt obſerve, That the Plaintiffs Bill is in effect the ſame that the Declaration, after an Appearance had, is, either in the Kings Bench or Common Pleas, and layes down the cauſe of his Complaint in Chancery, being uſually ſuch as is exempt from remedy at Common Law; and therefore they common<g ref="char:EOLhyphen"/>ly inſert in the Bill theſe words, <hi>That the Plaintiff hath no remedy at Law.</hi> And this Bill, by continuance of ſuch practice, may be put in after the <hi>Subpoena,</hi> is both taken out and ſerved, ſo as it come in within the time before limited in the former Section, to prevent coſts.</p>
+                  <p>This Bill in Chancery, and all ſubſequent Pleadings and Proceedings upon it, muſt be ſuccinct and ſhort, and not ſtuft with repe<g ref="char:EOLhyphen"/>titions of Deeds, Writings, or Records, <hi>(in haec verba)</hi> but the effects and ſubſtance of ſo much of them onely as it is pertinent and
+<pb n="40" facs="tcp:46430:24"/>material to ſet down; and that in brief terms, without long and needleſs traverſes of things not traverſable, and without tautolo<g ref="char:EOLhyphen"/>gies and impertinencies. Neither muſt it contain any matter either criminal or ſcan<g ref="char:EOLhyphen"/>dalous againſt the Defendant, or any other; and if it do, the Defendant may refuſe to anſwer it, and the Plaintiff and his Counſel (whoſe hand is to it) may be puniſhed for it; and any other party grieved may recover coſts againſt ſuch Counſel.</p>
+                  <p>Where any Bill contains matter not proper for the Court to give relief in, the Bill may be gotten diſmiſſed: and ſo likewiſe will it be, if there want Counſel's hand to the Bill, or if the Counſel's hand be counterfeited or diſ<g ref="char:EOLhyphen"/>allowed.</p>
+                  <p>To ſuch a Bill rightly fitted and filed, the Defendant is to make Anſwer; wherein many times he makes much delay: but in all caſes of delay, he muſt upon Oath ſatisfy the Court of the cauſe of ſuch his delay; which may be in ſeveral reſpects: as,
+<list>
+                        <item>Firſt, Where the matter contained in the Bill is ſuch, as to which he cannot give an anſwer direct, without conference had with ſome other perſon in the Bill named, or to whom the Bill refers.</item>
+                        <pb n="41" facs="tcp:46430:24"/>
+                        <item>Secondly, Where the Bill chargeth the Defendant with the having of Evidences or Writings, or Goods or Chattels of the Com<g ref="char:EOLhyphen"/>plainants, to make diſcovery what they are: in ſuch caſe the Evidences or Writings, and Goods, being in the Country, and he in <hi>London;</hi> he may make Oath, he cannot an<g ref="char:EOLhyphen"/>ſwer perfectly to the Plaintiff's Bill, without ſight and peruſal of the Goods, Evidences, or Writings which he hath in the Country. Upon which Oath ſo made, the Anſwer will be ſuſpended till the firſt day of the next Term: but in theſe caſes, the place in the Country where the parties live, Goods, Evi<g ref="char:EOLhyphen"/>dences or Writings lie, muſt be above twenty miles from <hi>London:</hi> for if it be nearer, he muſt anſwer in eight dayes after appearance, unleſs further time be given by order.</item>
+                     </list>
+                  </p>
+                  <p>There may alſo be Oath made by another perſon, either the Sollicitor, his Servant, or Neighbour to the Defendant, that he is ſick, and cannot travel without danger of life: and upon ſuch an Oath, a <hi>Dedimus Poteſtatem</hi> (if the Plaintiff will not conſent to it) upon a motion or Petition, will be allowed to the Defendant. But heed muſt be taken, that the O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>der whereby it was granted, muſt be care<g ref="char:EOLhyphen"/>fully entred in the Regiſters Office; and the Affidavit upon which the Order is grounded,
+<pb n="42" facs="tcp:46430:25" rendition="simple:additions"/>muſt be filed in the Affidavit-Office. Where the Defendant doth not appear; or that after he hath made his appearance, he doth not anſwer within the time limited him, nor ſheweth any cauſe for the ſame: in ſuch caſe, an Attachment is awarded againſt him; which muſt be entred in the Houſe-book of the Six Clerks Office, and likewiſe in the Regiſter-book, expreſſing the cauſe of iſſuing the At<g ref="char:EOLhyphen"/>tachment.</p>
+                  <p>Where there is no day given by Rule to the Defendant to anſwer, in ſuch caſe the Defendant is at liberty to anſwer at any time during the Term: and where the Defendant makes default within that time to anſwer, then an Attachment may be ſued forth againſt him of Courſe, and the ſame with the cauſe there<g ref="char:EOLhyphen"/>of muſt be entred, as before is mentioned in the laſt Paragraph.</p>
+                  <p>Where the <hi>Subpoena</hi> is made returnable ſo near the end of the Term, that there cannot be a day given to the Defendant to anſwer; in ſuch caſe the Defendant muſt at his peril anſwer by the ſame day ſeven-night next fol<g ref="char:EOLhyphen"/>lowing the day of his appearance, although it be out of Term: for the Chancery is ſaid to be alwayes open. But where the <hi>Subpoena</hi> is returnable on the laſt Return-day of the Term, then the Defendant is at liberty to
+<pb n="43" facs="tcp:46430:25"/>appear the firſt Return of the Term following. But if the <hi>Subpoena,</hi> be returnable upon a day certain, although the day be the laſt day of the Term, yet the Defendant is bound to appear and anſwer by that day ſeven-night next fol<g ref="char:EOLhyphen"/>lowing the ſaid appearance.</p>
+                  <p>In all Caſes where the Defendant makes Oath, That he cannot anſwer without ſight of Writings, Evidences, or Goods, as afore<g ref="char:EOLhyphen"/>ſaid, or conference with ſome other perſon, or that he have a <hi>Dedimus Poteſtatem,</hi> and Commiſſion to take his Anſwer in the Country; the Defendant muſt at his peril procure his Anſwer to be put in before the day after the firſt coſts-day of the next Term following, unleſe it be in <hi>Trinity</hi>-Term; for there it may be put in the ſecond day after the ſecond return; or otherwiſe, the Plaintiffs Clerk may upon his default make out an Attachment againſt him for not an<g ref="char:EOLhyphen"/>ſwering in time.</p>
+                  <p>Where the Defendant hath a <hi>Dedimus</hi> granted him, if there be cauſe of Plea or Demurrer found, then the Defendant ought to move or petition the Court to have a ſpe<g ref="char:EOLhyphen"/>cial <hi>Dedimus Poteſtatem</hi> by order to anſwer, plead, or demur; for that the Commiſſioners upon an ordinary <hi>Dedimus</hi> have power to take and return no other things than an Anſwer only.</p>
+                  <pb n="44" facs="tcp:46430:26"/>
+                  <p>Wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re the Defendant doth demur, or put in any juſt Plea that he hath to the diſabili<g ref="char:EOLhyphen"/>ty of the perſon of the Plain<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iff, or to the Juriſdiction of the Court, under the hand of learned Counſel; it will be received and filed, although the Defendant do not deliver the ſame in perſon, or by Commiſſion. And if he do not put in his Demurrer or Plea into the Paper of Pleas and Demurrers in the Re<g ref="char:EOLhyphen"/>giſter-Office appointed for purpoſe, within eight dayes after the ſame is put into Court, that ſo it may be argued before the Lord Chancellor or his Deputy, as it ſhall ſall in courſe; the ſame being ſo omitted to be done, the Plea or Demurrer is over-ruled of courſe, and the Plaintiff may take forth a <hi>Subpoena</hi> to inform the Defendant to make better anſwer, and another for coſts for the ſaid over-ru<g ref="char:EOLhyphen"/>ling.</p>
+                  <p>Where a man exhibits his Bill in Chan<g ref="char:EOLhyphen"/>cery, and dies <hi>pendente lite,</hi> whoever hath the intereſt in the thing complained for, whe<g ref="char:EOLhyphen"/>ther Heir, Executor, or Adminiſtrator, they may put in a Bill of Reviver againſt the De<g ref="char:EOLhyphen"/>fendant: or in caſe the Defendant die, the Plaintiff may exhibit his Bill of Reviver againſt the Heirs, Executors or Adminiſtra<g ref="char:EOLhyphen"/>tors of the Defendant.</p>
+                  <pb n="45" facs="tcp:46430:26"/>
+                  <p>Where a Bill is exhibited againſt a man and his wife, and the matter contained in the Bill, wholly concerns the wife, and they both anſwer the Bill, and after anſwer, the husband dies; in this caſe, a Bill of Reviver muſt be brought by the Complainant againſt the woman, if he intend to proceed in that Suit: and the reaſon is, for that the woman ſhall not be conſtrained to abide by that anſwer which ſhe, together with her husband, or ſolely as wife unto the man, hath formerly made to the Complainant, for that ſhe was at that time under Coverture. And in caſe ſhe ſurvives her husband, and continues poſſeſſed or ſeixed of the thing in controverſy in <hi>ſtatu quo,</hi> ſhe may as ſhe ſhall think fit, make a new anſwer, and ſhall not be bound up or concluded by that anſwer which ſhe made during Coverture, or ſolely as wife to the man: and yet if ſhe thinks fit, ſhe may ſtand to that former anſwer of hers, and pro<g ref="char:EOLhyphen"/>ceed accordingly in that Suit.</p>
+                  <p>Where a Plaintiff exhibits his Bill againſt a <hi>Femme ſole,</hi> and ſhe appearing, makes anſwer, and afterwards marrying, becomes under co<g ref="char:EOLhyphen"/>verture <hi>pendente lite:</hi> in this caſe the Plain<g ref="char:EOLhyphen"/>tiff may proceed againſt her and her husband, and ſhall not need any Bill of Reviver; and her husband ſhall be bound by that Anſwer
+<pb n="46" facs="tcp:46430:27"/>which ſhe made while a <hi>Femme ſole,</hi> for that ſhe ſhall not advantage her ſelf by her own act.</p>
+                  <p>Whereas, on the other ſide, if a <hi>Femme ſole</hi> exhibit her Bill, and the Defendant anſwer thereunto, and afterwards ſhe intermarrieth; here there can be no further proceeds by the husband and wife, without a Bill of Revivor, becauſe ſhe hath abated her Suit by her own act of marriage, of which the Defendant may take his beſt advantage.</p>
+                  <p>Where the man and the Wife exhibits a Bill, whereto the Defendant anſwereth; af<g ref="char:EOLhyphen"/>wards the man dieth, the woman may be at her choice, whether ſhe will exhibit a new Bill, or proceed upon the Bill by her husband and her ſelf formerly exhibited.</p>
+                  <p>Where there are two-ſeized of Joynt-eſtates, or when they are Executors of one Will, or Obligees or Obligors, and they prefer a Bill in Chancery, to which the De<g ref="char:EOLhyphen"/>fendant makes Anſwer; and after one of them dies; here the Survivor may proceed in his Suit againſt the Defendant, and ſhall need no Bill of Revivor.</p>
+                  <p>
+                     <hi>Note,</hi> That the Bill of Revivor muſt pur<g ref="char:EOLhyphen"/>ſue the firſt Bill exhibited: for where there is any variance between them, the Defendant may be diſcharged, and the Bill will be diſſolved.</p>
+                  <pb n="47" facs="tcp:46430:27"/>
+                  <p>Where there are Adminiſtrators <hi>durante minore aetate</hi> of an Infant, Executors in the nature of a Guardian, and, they ſue on the Infants behalf; and the Suit depending, the Infant comes to age, here it ſeems there needs no Bill of Revivor.</p>
+                  <p>Where the Complainant hath exhibited his Bill of Revivor, and hath procured there<g ref="char:EOLhyphen"/>upon a <hi>Subpoena</hi> to be ſerved, he will be upon this in the ſame caſe, as the Predeceſſor was when the Bill accrued, unleſs ſome good cauſe to the contrary (as, that he is not Heir, Exe<g ref="char:EOLhyphen"/>cutor, nor hath the like intereſt, &amp;c.) can by the Defendants Anſwer be ſhewed.</p>
+                  <p>Where a man doth willingly refuſe to An<g ref="char:EOLhyphen"/>ſwer, and doth ſtand out all proceſs of Con<g ref="char:EOLhyphen"/>tempt, the Court will take the matter of the Bill <hi>pro confeſſo,</hi> and decree it accordingly. See <hi>Tothil.</hi> 69.</p>
+                  <p>If the Anſwer be good to common intent, the Plaintiff muſt Reply, and prove the mat<g ref="char:EOLhyphen"/>ter if he can, and not inſiſt upon inſufficiency of the Anſwer.</p>
+                  <p>No exception can be taken to an Anſwer after a Replication put in; for it is then ad<g ref="char:EOLhyphen"/>mitted to be good: but before Replication, it may be excepted againſt. But where it is excepted againſt, the cauſes muſt be ſhewn in Writing, and delivered in to the Plaintiffs
+<pb n="48" facs="tcp:46430:28"/>Clerk the ſame Term the Anſwer comes in, or with eight dayes after: and if he amend it in eight dayes, he ſhall pay no coſts; other<g ref="char:EOLhyphen"/>wiſe he muſt.</p>
+                  <p>Where an Anſwer is excepted againſt as inſufficient, it is uſually referred to a Maſter to conſider of the Exceptions, and he to cer<g ref="char:EOLhyphen"/>tify whether it inſufficient, or not: if he cer<g ref="char:EOLhyphen"/>tify it inſufficient, then the Plaintiff may take out Proceſs for coſts, and the Defendant's ſecond Anſwer is not to be received, till he hath paid the coſts.</p>
+                  <p>The firſt Anſwer being returned inſuffici<g ref="char:EOLhyphen"/>ent, the Defendant muſt pay forty ſhillings for ſingle coſts: if it be an Anſwer that came in by Commiſſion, and inſufficient, he muſt pay fifty ſhillings coſts.</p>
+                  <p>The ſecond inſufficient Anſwer pays three pounds, the third five pounds: and you may have a <hi>Subpoena</hi> both for coſt, and for a better Anſwer.</p>
+                  <p>In all caſes of Exceptions, the inſufficiency appearing in the ſame Exceptions, are the point to be inſiſted on, and no new Exceptions may be moved. But if the Maſter upon refe<g ref="char:EOLhyphen"/>rence finds the Anſwer to be ſufficient, and accordingly certifies it, there the Plaintiff muſt pay forty ſhillings coſt.</p>
+                  <pb n="49" facs="tcp:46430:28"/>
+                  <p>If the Exceptions to an Anſwer be put in after the Term, there ſhall be time given to anſwer them untill the fourth day of the next Term, unleſs the Court haſten it.</p>
+                  <p>If an Anſwer come in by Commiſſion, and be not good, no new Commiſſion will be ad<g ref="char:EOLhyphen"/>mitted, but upon Oath of inability of the perſon, and his payment of fifty ſhillings coſts, as before.</p>
+                  <p>Where a Cauſe goes to hearing upon Bill and Anſwer, the ſam: muſt be admitted to be true in all points; and no other Evidence is to be admitted but what is matter of Record, to which is provable by the Record it ſelf. <hi>Caryes</hi> Rep. 78, 30.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>SECT. 3.</head>
+                  <p>THe third thing neceſſary for a perfect Sollicitor, is, to underſtand clearly the matter of Pleas and Demurrers: wherein he muſt obſerve: Firſt, That a Demurrer is alwayes where there is matter defective con<g ref="char:EOLhyphen"/>tained in the Bill, or where is forraign mat<g ref="char:EOLhyphen"/>ter.</p>
+                  <p>The Plea of forraign matter may be of two ſorts: either where it is to the Juriſdiction of th: Court, or to the diſability of the per<g ref="char:EOLhyphen"/>ſon: as, where the Plaintiff is Out-lawed or
+<pb n="50" facs="tcp:46430:29"/>Excommunicate, or where there is in this, or any other Court, a Bill or Suit depending for the ſame cauſe: or, it may be, that the Cauſe hath been formerly diſmiſſed in this Court, or the like; or if the matter of it ap<g ref="char:EOLhyphen"/>pear pear upon Record, it may be put in without Oath, otherwiſe not. In caſe it be a Demur<g ref="char:EOLhyphen"/>rer, it muſt expreſs the cauſe of the Demur<g ref="char:EOLhyphen"/>rer: yet other cauſes may be inſiſted on at the time of arguing thereof in Court. When if the Demurrer be over-ruled, the Defendant ſhall pay five Marks coſts; and where it is allowed, the Defendant ſhall have no coſts.</p>
+                  <p>If one plead a Plea that is inſufficient, and in over-ruled to be, as where it is an Out-lawry pleaded; and it is not a good Plea, he muſt pay five Marks coſts.</p>
+                  <p>An Out-lawry is not to be pleaded, unleſs you plead the Record <hi>Sub pede Sigilli.</hi> Alſo</p>
+                  <p>A Plea of Out-lawry, if it be in a Suit for the ſame thing for which a man ſueth to be relieved in Chancery, is not to be allowed; but otherwiſe it is allowed, and will be in force to hinder all the Plaintiffs proceedings, till it be reverſed. But when it is reverſed, the Plaintiff may upon payment of twenty ſhillings coſts, upon a new <hi>Subpoena</hi> ſer<g ref="char:EOLhyphen"/>ved, put the Defendant to anſwer the ſame Bill.</p>
+                  <pb n="51" facs="tcp:46430:29"/>
+                  <p>Where the Plaintiff conceives the Plea for matter or manner naught, he may put it to the Judgment of the Court.</p>
+                  <p>Where a man pleads a former Suit, he need not ſet it down with the Regiſter; but it ſhall be referred to a Maſter to certify, (which muſt be done within a Month upon the Plain<g ref="char:EOLhyphen"/>tiffs procurement) and if the Maſter certify againſt the Plaintiff, he muſt pay five ſhil<g ref="char:EOLhyphen"/>lings coſts: if there be no Report within a Moneth of filing the Plea; the Bill will be diſmiſſed of courſe, with ſeven Nobles coſts.</p>
+                  <p>If the Demurrer to any Bill be put in up<g ref="char:EOLhyphen"/>on any ſlip or miſtake in the Bill, the Plain<g ref="char:EOLhyphen"/>tiff of courſe laying down to the Defendants Clerk twenty ſhillings for coſts, may amend his Bill within eight dayes after the Demurrer put in, but not after that time.</p>
+                  <p>If the Demurrer be admitted by the Plain<g ref="char:EOLhyphen"/>tiff to be good within eight dayes after the filing of it, and he doth pay the Defendants Clerk in Court forty ſhillings coſts, then the Defendant ſhall not need to attend his De<g ref="char:EOLhyphen"/>murrer; but the Bill ſhall ſtand diſmiſſed of courſe without motion, unleſs both ſides agree to the amendment of the ſame: yet ſuch diſ<g ref="char:EOLhyphen"/>miſſion is to be no bar to a new Bill, to be exhibited by the Plaintiff.</p>
+                  <p>Where the Plaintiff finds ſufficient cauſe
+<pb n="52" facs="tcp:46430:30"/>for an Order upon the Anſwer, he may go to hearing thereupon without further proof, (of which there oughe to be very good advice taken) in which caſe, he muſt get his Clerk to preſent the ſame in courſe, to be ſet down to be heard upon Bill and Anſwer. But in caſe the Court ſhall not find grounds to make a Decree or final Order, the Bill ſhall be diſ<g ref="char:EOLhyphen"/>miſſed with coſts, or the Plaintiff admitted to reply, if he deſerve it; firſt paying down five pounds coſts within four dayes after ſuch hearing; elſe the diſmiſſion to ſtand, and the concluſion of the Order upon hearing is to be penned by the Regiſter accordingly: and then ſuch diſmiſſion ſhall be a good Plea in bar of any new Bill for the ſame matter.</p>
+                  <p>Where a Plaintiff proceeds ſo far as to proof, and upon the hearing, it clearly ap<g ref="char:EOLhyphen"/>pears, that the Plain iff might have had full relief upon Bill and Anſwer, albeit he be re<g ref="char:EOLhyphen"/>lieved in the ſame cauſe, yet he ſhall pay coſts. See more fully theſe things in the Collection of Orders, and <hi>Caryes</hi> Reports, 39, 87.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>SECT. 4.</head>
+                  <p>OTher things in practice neceſſary to be underſtood by our Sollicitor, are, Re<g ref="char:EOLhyphen"/>plications, Rejoynders, and Sur-rejoynders.
+<pb n="53" facs="tcp:46430:30"/>Now a Replication is the Plaintiff ſpeech, in way of a Reply to the Defendant Anſwer: the Rejoynder is the Defendants Anſwer to the Plaintiffs Replication; and the Sur-rejoynder is the ſecond defence to the Plain<g ref="char:EOLhyphen"/>tiffs Action, oppoſite to the Defendants Re<g ref="char:EOLhyphen"/>joynder.</p>
+                  <list>
+                     <item>1. The Replication muſt be ſhort, relating to the ſubſtance of the Bill; and it muſt avoid ſuperfluous and crim<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nous matter.</item>
+                     <item>2. The Replication muſt affirm and pur<g ref="char:EOLhyphen"/>ſue the Bill, and confeſs and avoid traverſe, or d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ny the Anſwer.</item>
+                     <item>3. The Rejoynder that muſt purſue and confirm the Anſwer, and muſt ſufficiently confeſs or avoid traverſe, or deny any mate<g ref="char:EOLhyphen"/>rial part of the Replication.</item>
+                     <item>4. No new matter muſt be put into the Replication; and ſo much matter only is ne<g ref="char:EOLhyphen"/>ceſſary to be there, as will avoid the matter of the Anſwer.</item>
+                     <item>5. If upon the Anſwer there be ſo much confeſſed, that the Plaintiff need not to draw into pleading, and prove all the points; he muſt ſee to it, and reply, and go to proof onely in thoſe particulars in queſtion, and neceſſary to be proved.</item>
+                     <item>6. When the Defendant doth demur or diſclaim to any Bill exhibited againſt him,
+<pb n="54" facs="tcp:46430:31"/>the Plaintiff cannot reply; and if the Defen<g ref="char:EOLhyphen"/>dant in thoſe caſes be ſerved with a <hi>Subpoena ad rejungendum,</hi> having before made no other Anſwer, but a Demurrer or Diſclaimer, as aforeſaid, he ſhall have coſts for unjuſt vexa<g ref="char:EOLhyphen"/>tion.</item>
+                  </list>
+                  <p>Where the caſe is ſuch, that the parties cannot come to iſſue by reaſon of ſome new matter diſcloſed in the Defendant's Rejoyn<g ref="char:EOLhyphen"/>der, that requires to be anſwered unto; the Plaintiff may Sur-rejoyn to the Rejoynder, and the Defendant likewiſe to the Sur-rejoyn<g ref="char:EOLhyphen"/>der, if there be cauſe.</p>
+                  <p>As for the time of the Replication to be put in after the Anſwer; you are to obſerve, that the Plaintiff hath time for all that Term, and all the next Term, and untill the begin<g ref="char:EOLhyphen"/>ning of the third Term, to put in his Repli<g ref="char:EOLhyphen"/>cation. The next Term after the Anſwer is put in, the Defendant may give the Plaintiff rule to reply; and if ſuch rule be given, and the Plaintiff reply not, coſts will be given againſt him: but if there be no rule given, and the Plaintiff doth not reply the ſecond Term after the Term the Anſwer is put in, the Bill will be diſmiſſed with coſts of courſe. But in caſe the Plaintiff doth reply, and that the Replication be in Court, the Defendant can have no coſts.</p>
+                  <pb n="55" facs="tcp:46430:31"/>
+                  <p>Where the Complainant hath replyed, the Defendant may<g ref="char:punc">▪</g> if he will rejoyn <hi>Gratis,</hi> and force the Complainant to joyn in Commiſſion.</p>
+                  <p>Where the Plaintiff intends to go to Com<g ref="char:EOLhyphen"/>miſſion, he muſt ſerve the Defendant with a <hi>Subpoena ad rejungendum,</hi> before he can have Commiſſion to examine Witneſſes; and up<g ref="char:EOLhyphen"/>on return of that <hi>Subpoena,</hi> and Oath made of the ſerving of it, the Plaintiff may by en<g ref="char:EOLhyphen"/>tring Rules, force the Defendant to rejoyn and joyn in Commiſſion, or go on to the exa<g ref="char:EOLhyphen"/>mining Witneſſes without him: for having given him ſeven dayes to rejoyn, if within that time he refuſe to do it, he ought not to be admitted to do it afterwards.</p>
+                  <p>Where the Defendant is ſerved with a <hi>Sub<g ref="char:EOLhyphen"/>poena ad rejungendum,</hi> and doth not upon the Plaintiff's Clerk's demand to the Defendant's Clerk deliver Commiſſioners Names by the end of the Term, wherein the <hi>Subpoena</hi> is returnable, there the Plaintiff may either without motion or petition give Names, and take a Commiſſion <hi>ex parte.</hi> See <hi>Caryes</hi> Rep. 111. And this hath brought you to another branch of your Sollicitors duty, <hi>viz.</hi> the manner of joyning in Commiſſion, and exe<g ref="char:EOLhyphen"/>cuting thereof.</p>
+               </div>
+               <div n="5" type="section">
+                  <pb n="56" facs="tcp:46430:32"/>
+                  <head>SECT. 5.</head>
+                  <p>IN the joyning in Commiſſion therefore to examine Witneſſes, the Complainant, ac<g ref="char:EOLhyphen"/>cording to dayly practice, firſt gives four Names, and then the Defendant gives four Names: now the Plaintiff or his Sollicitor ſtrikes out two of the Defendant's Names, and the Defendant or his Sollicitor ſtrikes out two of the Plaintiff's names; and the other four, being on each ſide two, remain the Commiſſioners. This being done, and the Commiſſion ready, the Plaintiff is to have the carriage thereof; and he or his Commi<g ref="char:EOLhyphen"/>ſſioners muſt give either in perſon, or by Note left in writing at the place of the uſual a bode of the other party, fourteen dayes notice to him of the time and place of executing the Commiſſion: and if there be default then made by the Plaintiff or his Commiſſioners in the execution thereof, he muſt pay the De<g ref="char:EOLhyphen"/>fendant ſuch coſts, as he upon his Oath, ſhall make appear he was put to in the attending the ſaid Commiſſion; and the Plaintiff muſt renew the Commiſſion at his own charge, and the Defendant ſhall have the carriage of it. And ſo on the other ſide ſhall the Plaintiff have, if the Defendant have the carriage of
+<pb n="57" facs="tcp:46430:32"/>the Commiſſion, and it be loſt by default of his ſide. But where it becomes void by an err our of the Clerk in making of it, the coſts ſhall be born by him, and that ſide for whom it was taken out.</p>
+                  <p>Where the Defendant hath the carriage of the Commiſſion, he muſt give notice to the Plaintiffs, as is before directed: and if ſuch notice be not given, either all the examina<g ref="char:EOLhyphen"/>tions will be quaſhed, or otherwiſe the Court will grant to the other ſide a Commiſſion <hi>ex parte.</hi>
+                  </p>
+                  <p>Where there hath been Publication, there no Commiſſion can be granted or renewed for examining Witneſſes without ſpeciall Or<g ref="char:EOLhyphen"/>der.</p>
+                  <p>Where a Commiſſion hath been to exa<g ref="char:EOLhyphen"/>mine Witneſſes, without reference and certi<g ref="char:EOLhyphen"/>ficate upon it, it cannot be diſcharged upon a bare petition.</p>
+                  <p>Where a Commiſſion is taken out by con<g ref="char:EOLhyphen"/>ſent, and the one ſide at the ſpeeding thereof do put in no Interrogatories, nor examine any Witneſſes, (unleſs upon a motion, and by order of the Court) he ſhall never be after ad<g ref="char:EOLhyphen"/>mitted to have a new Commiſſion.</p>
+                  <p>Where the Defendant had Witneſſes, and they being ſerved, did not appear, but make default, here a new Commiſſion will be
+<pb n="58" facs="tcp:46430:33"/>granted to the Defendant. See <hi>Caryes</hi> Rep. 91, 45. <hi>Tothil.</hi> 3.</p>
+                  <p>The next thing is the choice of Commiſſi<g ref="char:EOLhyphen"/>oners, and exceptions againſt them. Firſt, they muſt be men indifferent: for the Excep<g ref="char:EOLhyphen"/>tions that are uſually taken againſt them, are, that he who is named Commiſſioner, is of Kindred, or Allyed to the party for whom he is named, and ſo may very well be deemed to ſide with that patty: or that he is Maſter to the party for whom he is named, or that he is Landlord, or of his Council, or Attorney for him, or one to whom he is indebted, or one that hath a Suit with the adverſe party.</p>
+                  <p>The Commiſſion being to be ſate upon at the time and place appointed, the Commiſſi<g ref="char:EOLhyphen"/>oners muſt call the Witneſſes before them; where, if they appear not, an Attachment iſſues againſt them, unleſs it be where Wit<g ref="char:EOLhyphen"/>neſſes are impotent, and then the Commiſſi<g ref="char:EOLhyphen"/>on may be adjourned to them, to examine them where they be: and uſually the Witneſs may demand his coſts before he Anſwer.</p>
+                  <p>Where Witneſſes appear to be examined, the Commiſsioners or Examiners muſt ex<g ref="char:EOLhyphen"/>amine them themſelves, and not leave ſo weighty a buſineſs to the truſt of their Clerks, or others to do it. They are to hold the Wit<g ref="char:EOLhyphen"/>neſſes to the point inſiſted upon. They ſhould
+<pb n="59" facs="tcp:46430:33"/>examine them but to one Interrogatory at a time, and not to read another to them, till they have anſwered that firſt. They are to take what comes from them, in anſwer to what they are examined; and not upon their ſight and reading all the Interrogatories, to let them ſet it down themſelves. After they have been examined, upon better thoughts they may ſuffer them to amend their Ex<g ref="char:EOLhyphen"/>aminations: They ought not neither to ask idle Queſtions beſides the matter of the In<g ref="char:EOLhyphen"/>terrogatories, nor ſet down impertinent An<g ref="char:EOLhyphen"/>ſwers. They are to ſet down truly in Parch<g ref="char:EOLhyphen"/>ment their Sayings; and that done, they are to ſet their hands to every Schedule, and ſend them up into Court as they are taken, with a Certificate: and if the Commiſſioners meet with any obſtruction in the Work, they muſt certify that alſo.</p>
+                  <p>After the Commiſſion is duely executed, and returned up, one of them muſt deliver it in Court, or they muſt ſend it by one that muſt make Oath, that he received it from one of their hands, and that it is not altered to his knowledge.</p>
+                  <p>If any one of the Commiſſioners commit any miſdemeanor about examination, the party grieved, upon Oath thereof made, may have an Attachment againſt him.</p>
+                  <pb n="60" facs="tcp:46430:34"/>
+                  <p>Where is a diſagreement among the Com<g ref="char:EOLhyphen"/>miſſioners, or where there is any other ſpe<g ref="char:EOLhyphen"/>cial cauſe that obſtructs the Commiſſion, they may have an Examiner ſent down on purpoſe to do it. See <hi>Caryes</hi> Rep. 30, 31, 40, 47, 80, 81. <hi>Tothil.</hi> 189.</p>
+                  <p>The Interrogatories to examine Witneſſes, muſt be ſuccinct and apt: and when Wit<g ref="char:EOLhyphen"/>neſſes, upon ſuch Interrogatories, are exami<g ref="char:EOLhyphen"/>ned in Court, you cannot examine the ſame Witneſſes upon putting in new Interrogato<g ref="char:EOLhyphen"/>ries.</p>
+                  <p>Witneſſes ought to be examined by Ex<g ref="char:EOLhyphen"/>aminers in Court, (if they live in or near the Town) and not by Commiſſioners: for no Commiſſion whatſoever ought to be iſſued out into any place within ten miles of <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+                  </p>
+                  <p>Either party, as well Plaintiff as Defen<g ref="char:EOLhyphen"/>dant, after Anſwer put, until Publication be paſt, may examine what Witneſſes they pleaſe in Court, before one of the Examiners: but before Anſwer, and after Publication, no Examination will be allowed, but by ſpecial order, ſome ſpecial cauſe being ſhewed.</p>
+                  <p>Notice muſt be given both of the names and dwelling-places of the perſons examined, in all caſes of examination.</p>
+                  <p>After an Order for Publication, and that
+<pb n="61" facs="tcp:46430:34"/>delivered to the Examiner, no Witneſs may be examined in Court, though he were ſworn before; and if any ſuch be, his Depoſitions may be ſuppreſſed. <hi>Caryes</hi> Rep. 27, 58, 93. <hi>Tothil.</hi> 189, 190, 192.</p>
+                  <p>No Abſtract or Copy of the Depoſitions of any Witneſſes is to be delivered, till Publi<g ref="char:EOLhyphen"/>cation be paſt. Neither may any Depoſiti<g ref="char:EOLhyphen"/>ons be ſuppreſſed upon a bare Petition only, with References and Certificates upon it.</p>
+                  <p>Where there are ſeveral Cauſes, which are meerly croſs Cauſes between the ſame parties, and touching the ſame matter, there the De<g ref="char:EOLhyphen"/>poſitions of Witneſſes in the ſeveral Cauſes may be uſed at the hearing of both Cauſes, (being heard together) without any moti<g ref="char:EOLhyphen"/>on.</p>
+                  <p>Where Depoſitions are regularly taken, they may not be ſuppreſſed by motion: but if any Depoſitions appear to the Court to be gotten by practice, they may by order of the Court be ſuppreſſed. Depoſitions taken in Chancery, may by order of the Court be made uſe of in any other Court. <hi>Caryes</hi> Rep. 35.56.</p>
+                  <p>He that will examine Witneſſes, <hi>(in per<g ref="char:EOLhyphen"/>petuam rei memoriam)</hi> to preſerve a teſtimony, he muſt firſt exhibit his Bill, and ſhew his Title to the thing, and that the Witneſſes to
+<pb n="62" facs="tcp:46430:35"/>prove it, are old, and not like to live long, whereby he is in danger to loſe it; and then pray a Commiſſion to ſome Gentlemen of credit in the Country to examine them, and a <hi>Subpoena</hi> to the parties intereſted, to ſhew cauſe, if they can, to the contrary: and if the party intereſted being duly ſerved, within fourteen dayes ſhew cauſe, the Plaintiff muſt deſiſt; and if no cauſe be ſhewn, he may go on alone, if the other will not joyn with him, as he may, if he will: and then four<g ref="char:EOLhyphen"/>teen dayes warning is to be given of the execu<g ref="char:EOLhyphen"/>tion thereof. In this caſe the Court will appoint Commiſſioners, and give Articles to examine upon; or they may be examined in Court by an Examiner. But here obſerve, That none but aged and impotent perſons may be examined upon this Commiſſion.</p>
+                  <p>Where the Defendant takes Exceptions to the proceedings in ſpeeding the Commiſſion, as, whether he did appear or not, and whe<g ref="char:EOLhyphen"/>ther Oath were made before them of notice given to him of the time and place of exe<g ref="char:EOLhyphen"/>cution thereof; in ſuch caſe the Commiſſion<g ref="char:EOLhyphen"/>ers muſt certify up with the Commiſſion, the Exceptions the Defendant ſo took.</p>
+                  <p>This teſtimony taken upon this Commiſſi<g ref="char:EOLhyphen"/>on, is not to be publiſhed while the Witneſſes live; but in ſome caſes, as either by conſent
+<pb n="63" facs="tcp:46430:35"/>of the parties, or upon Oath made, that ei<g ref="char:EOLhyphen"/>ther the Plaintiff hath ſome tryal at Law, wherein he ſhall need it, and that the Wit<g ref="char:EOLhyphen"/>neſſes are not able to come to the place, or otherwiſe by order of Court; and then the Commiſſion is to be opened by a Maſter, and to be conſidered of; and afterwards it may, if the party will exemplify it, by order of this Court, be given in evidence in any other Court.</p>
+                  <p>Theſe Depoſitions thus taken, ſhall not be made uſe of to be given in Evidence againſt any other but the Defendant, who was warned to defend it, his Heirs or Aſſignes, or ſome other claiming by or under him, by ſome intereſt which accrued to him after the Bill preferred. <hi>Tothil</hi> 189, 190, 191, 192.</p>
+                  <p>Where both Plaintiff and Defendant have examined what Witneſſes they pleaſe, and are ready to go to hearing, there neither of them muſt firſt give the other a Rule for Publicati<g ref="char:EOLhyphen"/>on: which Rule being expired, and no cauſe ſhewn to the contrary, then Publication paſſeth. After which, neither party can ex<g ref="char:EOLhyphen"/>amine Witneſſes, unleſs it be by ſpecial or<g ref="char:EOLhyphen"/>der of the Court; which will not be granted without an Oath made, that the party which requireth the ſame, nor any of his Council, or Sollicitor, have ſeen, read, or been made
+<pb n="64" facs="tcp:46430:36"/>privy to any Examinations of any the Wit<g ref="char:EOLhyphen"/>neſſes formerly examined in that cauſe, by either of the parties; and thereupon ſome good cauſe be ſhewn, either by Oath, or Certificate of Commiſſioners, why the party could not get his ſaid Witneſſes examined within the time limited for their Examinati<g ref="char:EOLhyphen"/>on: in which caſe ſometimes the Court giv<g ref="char:EOLhyphen"/>eth liberty to examine Witneſſes by a time prefixed: with this <hi>Proviſo,</hi> That the party ſhall not in the mean time ſee any of the ſaid former Examinations.</p>
+                  <p>After Publication is had, the Plaintiff, or, if he neglect, the Defendant may procure a day of hearing of courſe to be ſet down by his Clerk at the end of the Term, when either the Lord Chancellor or Maſter of the Rolls do ſet down Cauſes to be heard.</p>
+                  <p>The days muſt be ſet down according to the priority of Publication; neither muſt any Cauſe be preſented for hearing, the ſame Term that Publication paſſeth.</p>
+                  <p>All Proceſs to hear Judgment muſt be re<g ref="char:EOLhyphen"/>turnable ſix or ſeven days before the day of hearing, except it be in the beginning of the Term, when the time will not bear it: and the Writ muſt have on the back of it the very day of hearing; at which day, if the Plaintiff do not appear, the Defendant is to be dimiſſed with coſts. <hi>Caryes</hi> Rep. 45.</p>
+               </div>
+               <div n="6" type="section">
+                  <pb n="65" facs="tcp:46430:36"/>
+                  <head>SECT. 6.</head>
+                  <p>OUr Sollicitor having thus far, with dili<g ref="char:EOLhyphen"/>gence, managed his Clyents buſineſſe, and brought his Cauſe to a hearing; the next point of his care will be to get the De<g ref="char:EOLhyphen"/>cree drawn up; which ſhould be done as ſhort as with conveniency it may, and not r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cite the Pleadings at large, but the ſum thereof briefly. And if it be made before the Maſter of the Rolls, or any of the Judges, it ought, being drawn, to be firſt ſigned by them, and afterwards by the Lord high Chancellor, and then it muſt be inrolled; which Signing and Inrolment ought to be done before the firſt day after the next <hi>Michaelmas</hi> or <hi>Eaſter</hi>-Term, after the making of i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</p>
+                  <p>Where the Decree concerns Lands or Lea<g ref="char:EOLhyphen"/>ſes, it muſt be entred into the Regiſters Docker-Book, within ſix Months after the making of it; otherwiſe it ſhall not preju<g ref="char:EOLhyphen"/>dice the Purchaſer of the Land: neither in<g ref="char:EOLhyphen"/>deed ſhall any Decree be binding to any but thoſe who are ſerved with Proceſs <hi>ad audien<g ref="char:EOLhyphen"/>dum Judicium,</hi> or that did appear <hi>Gratis.</hi>
+                  </p>
+                  <p>The Purchaſer that comes in by Convey<g ref="char:EOLhyphen"/>ance <hi>bona fide</hi> from the Defendant, before the Bill exhibited, and that is no party by Bill or
+<pb n="66" facs="tcp:46430:37" rendition="simple:additions"/>Order, ſhall not be bound up by any Decree. But where a man becomes a Purchaſer, <hi>pen<g ref="char:EOLhyphen"/>dente lite,</hi> and without any colour of privity, or allowance of this Court, there it ſhall re<g ref="char:EOLhyphen"/>gularly bind him: yet in ſuch caſe, if there have been any intermiſſion of the Suit, or the Court be acquainted with the Conveyance, then the Court is to give order and direction in it.</p>
+                  <p>No Decree made by the Court can be croſſed, altered, or explained upon: a bare peti<g ref="char:EOLhyphen"/>tion only; and yet thereby it for ſome ſpeci<g ref="char:EOLhyphen"/>all Reaſons may be ſtayed for a while, till it can be moved in Court.</p>
+                  <p>A Decree once inrolled, cannot be rever<g ref="char:EOLhyphen"/>ſed or altered but by a Bill of Review, unleſs it be in caſe of miſ-caſting, where the Caſe is demonſtrative; and then it may be done by Order.</p>
+                  <p>A Decree will bind the perſon of a man: for where any do refuſe to obey it, the Court will impriſon them, till they conform. It binds alſo the Rights and Titles to Lands and Goods: for, the Court by Order of Sequeſtra<g ref="char:EOLhyphen"/>tion and Injunction, will diſpoſe of the poſſeſſi<g ref="char:EOLhyphen"/>on thereof for ever to him to whom the Court judgeth the right to belong in conſci<g ref="char:EOLhyphen"/>ence.</p>
+                  <p>Where a Decree is to be made upon a
+<pb n="67" facs="tcp:46430:37"/>pretence of Equity againſt the Judgment of another Court, that Judgment is firſt read; and then the Decree is not to vacate the Judgment, but to order the unreaſonable party.</p>
+                  <p>The Decree being this obtained, our Solli<g ref="char:EOLhyphen"/>citor may ſometimes meet with ſtubborn and perverſe people: it is moſt requiſite there<g ref="char:EOLhyphen"/>fore, that he be inſtructed how the Court doth uſe to enforce Obedience to their Decrees, and to puniſh the breach of them; that ſo he may the better know which way to take to procure the Court to do the ſame in his Clyents behalf: And that is to be obtained thus.</p>
+                  <p>Firſt, he muſt ſerve the party with the Decree it ſelf, under the Seal of the Court: and if he yield not obedience thereunto, but ſtands obſtinate, then proceed to take out all the Proceſſes of contempt againſt him one after another; and the party being taken, will be ſtraightly impriſoned, and not ſet at liberty, till he yield obedience to it; that is, that he perform that part of the Decree which is preſently to be done, and give ſecu<g ref="char:EOLhyphen"/>rity to perform the other part which is to be done in the future. Alſo the Lord Chancel<g ref="char:EOLhyphen"/>lor may for his contempt fine him what he pleaſe, and afterwards the ſame may be eſtreated.</p>
+                  <pb n="68" facs="tcp:46430:38"/>
+                  <p>Where the Decree is for Land, and the party remains obſtinate or wilful after his im<g ref="char:EOLhyphen"/>priſonment, the Court upon motion will grant an Injunction for the poſſeſſion: and this be<g ref="char:EOLhyphen"/>ing diſobeyed, after it is ſerved, and Oath made thereof, the Court, in that caſe, will grant a Commiſſion to ſome Juſtices; and, if need be, a Writ of Aſſiſtance to the Sheriff to put him in poſſeſſion. <hi>Caryes</hi> Reports 23, 34, 36.37. <hi>Tothil</hi> 56, &amp; 57.</p>
+                  <p>Where this Injunction is granted for poſſeſ<g ref="char:EOLhyphen"/>ſion of the Land, and the party ſits out all Proceſs of contempt, and cannot be found by the Sergeant at Arms, or make a Reſcue; there the Court being by Oath upon motion informed thereof, will grant a Sequeſtration of the Land. <hi>Tothil</hi> 107. And this Sequeſtra<g ref="char:EOLhyphen"/>tion is granted ſometimes as well of the Goods, as of the Profits of a mans Land; and that for his wilfulneſs in ſtanding out in contempt, and diſobedience to the Court, as well where it is for diſcharge and payment of Debts and Duties, as where the Decree is for payment of a ſum of money. <hi>Tothil</hi> 175, 176.</p>
+               </div>
+               <div n="7" type="section">
+                  <pb n="69" facs="tcp:46430:38"/>
+                  <head>SECT. 7.</head>
+                  <p>IN caſe of contempts upon force or ill words, uſed upon any that ſerveth Proceſs, or other words of ſcandal to the Court; if they be proved by Affidavit, the party forthwith upon motion will be committed, if the words ſpoken deſerve it.</p>
+                  <p>For other contempts againſt the Orders of the Court, take in ſhort, as followeth. Firſt, An Attachment goes forth upon Affidavit made of the contempt; then the party be<g ref="char:EOLhyphen"/>ing taken, is to be examined upon Interro<g ref="char:EOLhyphen"/>gatories; which is many times upon motion referred to one of the Maſters of the Chan<g ref="char:EOLhyphen"/>cery.</p>
+                  <p>The Contempter coming in <hi>Gratis,</hi> of upon Proceſs, ſhould give notice to the Clerk of the other ſide, of his appearance: and if there be not Interrogatories put in within eight days, or being examined, if no reference be of the Examination, nor Commiſſion taken out of the other ſide, or Witneſſes examined to prove the contempt in a Month; the Contempter ſhall be diſcharged, and ſhall recover coſts, to be taxed by a Maſter with<g ref="char:EOLhyphen"/>out any motion. But if after he have appea<g ref="char:EOLhyphen"/>red upon the contempt, he depart unexamined,
+<pb n="70" facs="tcp:46430:39" rendition="simple:additions"/>he muſt ſtand committed, till he be examined and cleared; and if it be ſound, he muſt clear it, and pay coſts ere he be diſcharged.</p>
+                  <p>Such as ſtand comitted for contempts up<g ref="char:EOLhyphen"/>on Attachments, or Commiſſions of Rebel<g ref="char:EOLhyphen"/>lion, muſt enter into Bond to attend from lay to day, and not to depart without leave of he Court. <hi>Caryes</hi> Rep. 9, 44, 70, 71, 82.</p>
+                  <p>Impriſonments upon contempts for matters paſt, may be diſcharged <hi>ox gratia,</hi> after ſuffi<g ref="char:EOLhyphen"/>cient impriſonment; or, it may be otherwiſe diſpenſed withall. But where the impriſon<g ref="char:EOLhyphen"/>ment is for non-performance of any Order of the Court in force, then the perſon ſo in con<g ref="char:EOLhyphen"/>tempt ought not to be diſcharged, except he firſt obey; only the Court may diſpenſe with the contempt for a time.</p>
+                  <p>After all this, and a Decree performed, or elſe the party in priſon for non-performance, as aforeſaid; yet ought our Sollicitor to underſtand, that his Clyent for all this may be a great way off from an end: for, upon performance and obedience to the Decree, a Bill of Review may be brought. At the putting in of which, the party that prefers it, muſt enter into a Renognizance, with Sureties for the ſatisfying of Coſts and Damages for the delay, if it be found againſt him.</p>
+                  <pb n="71" facs="tcp:46430:39"/>
+                  <p>Where a Cauſe is diſmiſſed upon full hearing, and the diſmiſſion ſigned and enrol<g ref="char:EOLhyphen"/>led, it cannot be retained again, but by a Bill of Review; and that in ſome ſpecial caſes too: for,</p>
+                  <p>No Bill of Review is grantable but upon Errour in Law, appearing in the body of the Decree it ſelf, without averment or further examination of any matter or fact which might have been had at the time of the De<g ref="char:EOLhyphen"/>cree, unleſs he ſhew ſome new matter which hath riſen in time after the Decree, whereof the Plaintiff could not have advantage before; and then, upon Oath made, that there is a diſ<g ref="char:EOLhyphen"/>covery of ſuch new matter; this Bill (by the leave of the Court) may be exhibited, giving ſecurity as before.</p>
+                  <p>Where the Decree is to yield the poſſeſſion of Land, deliver Writings, or to pay money, he muſt firſt perform that before a Review: but if the Decree be to extinguiſh a Right, convey Land, releaſe a Debt, acknowledge ſatisfaction, or to cancel Records or Evi<g ref="char:EOLhyphen"/>dences, or the like; it may be ſtayed by the Cour's order, till the Bill of Review be de<g ref="char:EOLhyphen"/>termined.</p>
+                  <p>No witneſſes which either were or migh have been ex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mined upon the former Bill ſhall upon this Bill of Review be examined <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> any matters. <hi>Tothil</hi> 173.</p>
+               </div>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="72" facs="tcp:46430:40"/>
+               <head>
+                  <hi>CHAP. V.</hi> Shewing our Sollicitor ſeveral other Incidents which be ought to be skilled in, and much re<g ref="char:EOLhyphen"/>lating to his Practice.</head>
+               <p>HAving now in the former Chapter, and the ſeveral Sections thereof, paſſed through the general proceedings of the Chan<g ref="char:EOLhyphen"/>cery, upon Bills, Anſwers, and all other things, even to the Decree and Review thereof; there are yet ſome things remaining, which, in many caſes, are not only incident, but even eſſential to thoſe affairs wherein our Sol<g ref="char:EOLhyphen"/>licitor ought to be particularly skilled. And the firſt of theſe is concerning Injuncti<g ref="char:EOLhyphen"/>ons.</p>
+               <p>And this is looked upon in the general Ac<g ref="char:EOLhyphen"/>ceptation, as a main and chief branch of the power of the Court, for that it makes ſtay of Procedings at Common Law; and, as before is ſaid, is many times granted to gain poſſeſſi<g ref="char:EOLhyphen"/>on of Land, and ſo becomes ſubſequent to the Decree.</p>
+               <p>Where it ſtays proceedings at Law, in ſome caſes it gives leave to go to Tryal and
+<pb n="73" facs="tcp:46430:40"/>Judgment, but ſtays Execution; and where the matter of Law is tryed, it bars them from Judgment, as the cauſe may be.</p>
+               <p>Or where there is a Judgment, and that executed, it will ſtay the money in the Sheriffs hand, after the party is arreſted at Law for the money.</p>
+               <p>This Writ is commonly procured, either upon ſome Writing or matter of Record plainly appearing, or upon a very old Debt that hath long ſlept, Creditor and Debtor be<g ref="char:EOLhyphen"/>ing both dead: or in ſuch caſes, where the Defendant doth not appear, but fits an At<g ref="char:EOLhyphen"/>tachment; or if he appear, either Anſwers not the Bill, or confeſſeth not ſo much thereof as is ſufficient.</p>
+               <p>Where either the Defendant is beyond the Sea, or being in the Kingdom, doth abſent himſelf, ſo that he cannot be ſerved; or where upon any pretence he hath gotten time to an<g ref="char:EOLhyphen"/>ſwer; the Court doth uſually in thoſe caſes, upon motion, grant an Injunction to ſtay ſuit, till the Defendant doth appear.</p>
+               <p>Where a Commiſſion is granted to take an Anſwer in the Country, an Injunction upon motion will be granted to ſtay the Defendants Suit at Law (if any be) till the Anſwer come in: and of this the Defendant is bound to take notice, though he be not ſerved therewith.</p>
+               <pb n="74" facs="tcp:46430:41"/>
+               <p>Where there is a Verdict at Common Law in an Action of Debt, and a Bill be af<g ref="char:EOLhyphen"/>terwards here exhibited for Relief, the money muſt be depoſited in Court, before an Injuncti<g ref="char:EOLhyphen"/>on can be obtained, unleſs in ſome caſes, where ſome ſpecial matter in Equity appears by the Defendant's Anſwer, or in ſome former Decree.</p>
+               <p>Where a perſon priviledged in this Court, is ſued elſewhere, that Suit may be ſtayed by an Injunction.</p>
+               <p>Where Timber is unjuſtly felled, ancient Meadow-ground plowed up, ancient Paſtures that have not been plow'd up in twenty years before, or for the Maintenance of Incloſures kept in twenty years before, an Injunction is grantable according to the caſe.</p>
+               <p>Where an Injunction is granted to quit a poſſeſſion, it is granted of Houſes and Land only, and not of a Rent, or ſuch-like thing: and it is not to be granted before the hea<g ref="char:EOLhyphen"/>ring of the cauſe, unleſs upon an Oath, that the Plaintiff was in poſſeſſion at the time of the Bill put in; and then only of that poſſeſſi<g ref="char:EOLhyphen"/>on he had then and three years before, and at the time of the motion, and not be extended to the poſſeſſion of thoſe from whom he claims. And this ſhall not hinder the De<g ref="char:EOLhyphen"/>fendants Suit in Law, making of a Leaſe,
+<pb n="75" facs="tcp:46430:41"/>taking of a Diſtreſs, &amp;c. And this Injunction will ſoon be diſſolved again, if the Plaintiff delay his Suit.</p>
+               <p>Where it is to ſtay or remove a Suit by <hi>Cer<g ref="char:EOLhyphen"/>tiorare,</hi> Bond muſt be firſt given, that the Bill hath matter ſufficient in it to bear it, and ſhall be proved true within fourteen days af<g ref="char:EOLhyphen"/>ter he hath the Writ; and if it be not done in that time, after Certificate of his neglect from the Examiners, it ſhall be diſmiſſed with coſts, and a <hi>Procedendo</hi> granted.</p>
+               <p>Where the Injunction is to be obtained by motion, for matter in the Anſwer, there the caſe muſt be put in writing to the Court.</p>
+               <p>Where it is granted upon the merit of the cauſe, or upon ſpecial cauſe in equity, it is to ſtand till the hearing, unleſs the Plain<g ref="char:EOLhyphen"/>tiff delay his Suit.</p>
+               <p>This Writ thus obtained, muſt be ſerved either on the party himſelf, his Counſel, At<g ref="char:EOLhyphen"/>torney or Sollicitor, &amp;c. as the caſe requires; and the manner of ſerving is much like to that of ſerving a <hi>Subpoena.</hi>
+               </p>
+               <p>A bare Petition only will not diſſolve an Injunction; nor, if it be had by motion, can it be diſſolved without a motion of the adverſe party.</p>
+               <p>Where an Injunction is granted till the Anſwer be put in, and no order be made to
+<pb n="76" facs="tcp:46430:42"/>continue it within fourteen days after the Anſwer come in; in this caſe, it ſhall be diſ<g ref="char:EOLhyphen"/>ſolved upon the Regiſter's Certificate thereof only. And if no Motion be made that Term, or at the next General Seal after the Term, to continue it for inſufficiency of, or matter confeſſed in, the Anſwer; it is of courſe diſſol<g ref="char:EOLhyphen"/>ved: ſo where it is to ſtay a Suit at Common Law, and the Plaintiff doth not proceed for three years together.</p>
+               <p>Where the Injunction is diſobeyed, (if you would force obedience thereunto) upon Oath made thereof, all the Proceſſes of Con<g ref="char:EOLhyphen"/>tempt are to go out againſt him one after another; and being taken, he is to be im<g ref="char:EOLhyphen"/>priſoned till he yield obedience to it, or give ſecurity to do it. Nor is he to be heard in the principal caſe, till he yield obedience in every thing to the Injunction. <hi>Tothil</hi> 107. <hi>Caryes</hi> Rep. 112, 113.</p>
+               <div n="2" type="section">
+                  <head>SECT. 2.</head>
+                  <p>Another materiall point is about Diſ<g ref="char:EOLhyphen"/>miſſions, and how they are to be ma<g ref="char:EOLhyphen"/>naged and attained. Concerning which, he is to know, That this is prayed by motion, and had upon Plea to the Bill, or at the hearing of the Cauſe; but not after Examination
+<pb n="77" facs="tcp:46430:42"/>of Witneſſes before hearing, but upon a diſ<g ref="char:EOLhyphen"/>continuance of proſecution, and then by moti<g ref="char:EOLhyphen"/>on and order.</p>
+                  <p>Where the Plaintiff diſcontinues his Pro<g ref="char:EOLhyphen"/>ſecution, after all the Defendants have an<g ref="char:EOLhyphen"/>ſwered by the ſpace of two Terms, the cauſe is to be diſmiſſed the third Term upon courſe: but after a Replication put in, it cannot be diſmiſſed without an Order upon a Motion.</p>
+                  <p>Where a Cauſe is diſmiſſed upon a full hearing, recorded and certified by the Lord Chancellor; it cannot be again retained, nor a new Bill admitted, but where there is new matter.</p>
+                  <p>Where the Bill is duly diſmiſſed of courſe, or by order, no motion will be heard to retain it, till the coſts aſſeſſed upon the diſmiſſion be paid, and certified from the Clerk on the other fide, that it is done.</p>
+                  <p>No Diſmiſſion, or retainer upon a Diſmiſ<g ref="char:EOLhyphen"/>ſion, will be granted on a bare Petition only.</p>
+                  <p>In caſes of Diſmiſſion not upon a full hea<g ref="char:EOLhyphen"/>ring, to a new Bill this may be pleaded.</p>
+                  <p>But generally for all cauſes of Diſmiſſion, the Court will retain and diſmiſs it as they ſee cauſe, as daily practice and experience doth plainly manifeſt. See <hi>Caryes</hi> Rep. 34, 43, 74, 76, 110.</p>
+               </div>
+               <div n="3" type="section">
+                  <pb n="78" facs="tcp:46430:43"/>
+                  <head>SECT. 3.</head>
+                  <p>A Third point much and frequently inci<g ref="char:EOLhyphen"/>dent to practice, are References to the Maſters of the Court, and their Reports there<g ref="char:EOLhyphen"/>on. Which happen upon ſeveral Occaſions: As,</p>
+                  <p>Where there is a Demurrer to the Juriſ<g ref="char:EOLhyphen"/>diction of the Court, there no Reference may be had to a Maſter upon it, but it muſt be heard before the Lord Chancellor him<g ref="char:EOLhyphen"/>ſelf.</p>
+                  <p>After examination of Witneſſes is paſt, there can be no Reference had to a Maſter to end and determine, unleſs it be in caſe of near kin, poverty, or conſent of parties.</p>
+                  <p>A Reference of the ſtate of the caſe is ſpa<g ref="char:EOLhyphen"/>ringly granted, unleſs where there is the con<g ref="char:EOLhyphen"/>ſent of parties. The examination of Court-Rolls is to be by Reference; but there it muſt be by two Maſters at the leaſt.</p>
+                  <p>No Reference ſhall be made of the inſuf<g ref="char:EOLhyphen"/>ficiency of an Anſwer, without Allegation of ſpecial cauſes. The Reports of the Maſters up<g ref="char:EOLhyphen"/>on References, muſt not exceed the order of Reference, whereby the ſame is referred. And after the Maſter hath ſeen the order, he uſually grants our a Warrant, which is
+<pb n="79" facs="tcp:46430:43"/>ſhewn unto the other ſide, whereby he gives notice of the time of his hearing the Cauſe; where the other ſide, with their Counſel or Sollicitor, or both, may, as they ſee cauſe, attend.</p>
+                  <p>The Report it ſelf is uſually brief of what only they find; wherein the Maſter ought not to certify his own opinion, but leave the ſame wholly to the Judgment of the Court: and if the Cauſe be very doubtful, then muſt he ſet forth the ſpecial caſe.</p>
+                  <p>No Order can be had to confirm the Re<g ref="char:EOLhyphen"/>port, till it be firſt filed with the Regiſter, un<g ref="char:EOLhyphen"/>der the Maſter's hand, and a day given to the other ſide for ſeven days at leaſt to ſpeak to it in Court. But where it doth not ground a Decree, and it be poſitive, it doth uſually ſtand; and proceſs may be taken out for the performance thereof, unleſs the adverſe party, upon notice thereof, do within eight days after (if it be in Term time) or if at the General Seals for motions, or if after them, within four days of the beginning of the next Term, file exceptions to the ſame. And in ſuch caſe the party that ſo filed exceptions, muſt depo<g ref="char:EOLhyphen"/>ſite forty ſhillings with the Regiſter, and a day will be ſet for the Judgment of the Court: and if the Court do not allow the exceptions, the other ſhall have the forty
+<pb n="80" facs="tcp:46430:44"/>ſhillings, and what more the Court ſhall think fit: if otherwiſe, the mony is to be re<g ref="char:EOLhyphen"/>ſtored.</p>
+                  <p>The matters chiefly under Reference, are either inſufficient Anſwer, matters of Account, contempt, or abuſe of the Court.</p>
+                  <p>Where a Maſter upon a Reference to him, Reports an Anſwer inſufficient, the Complainant may take out two <hi>Subpoena</hi>'s againſt the Defendant, the one for twenty ſhillings coſts, and the other to make a better Anſwer.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>SECT. 4.</head>
+                  <p>THere are many Occaſions intervening in a cauſe, which do require a Motion to ſet them right: now every motion pro<g ref="char:EOLhyphen"/>cures an Order, (now it behooves our Solli<g ref="char:EOLhyphen"/>citor not to lead his Clyent into unneceſſary and chargeable motions) and eve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Order muſt be drawn by the Regiſter who ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e then in Court, and took Notes thereof (when the ſame was pronounced) into his Book; by which, to draw up ſome more full remembrance of that which paſſed in Court. Which, that it may the better he done, our Sollicitor after the riſing of the Court, ought to repair to the Regiſters Office; and there
+<pb n="81" facs="tcp:46430:44"/>finding the Notes, and ſhewing them to the Regiſter or his Clerk, to have inſtruction for the drawing up of the ſaid Order for his Cly<g ref="char:EOLhyphen"/>ents better advantage.</p>
+                  <p>Where any Order ſhall be made, and the Court not informed of the laſt material Or<g ref="char:EOLhyphen"/>der formerly made, no benefit ſhall be taken by ſuch Orders, as being ſurreptitiouſly procured; and therefore the Regiſter doth alwayes mention the laſt former Or<g ref="char:EOLhyphen"/>der, in the Order that he draws up at preſent.</p>
+                  <p>An Order made out of the general Rule, muſt ſet down the ſpecial Reaſons of it.</p>
+                  <p>No Order ſhall be explained by petition, but by publick motion, both parties being heard.</p>
+                  <p>No Order but final Orders and Decrees may be received to be entred after eight days after the pronouncing thereof, that day being included.</p>
+                  <p>The Regiſter is to keep Copies of the Or<g ref="char:EOLhyphen"/>ders he doth deliver, and he is to mark the ſame; which done, it is to be entred by the entring-Clerk, and ſo brought back again to the Regiſter, for his hand to be put to it, and then it is authentick.</p>
+                  <p>The Regiſter after a hearing and reference to a Maſter, is to ſet down in the Order
+<pb n="82" facs="tcp:46430:45"/>of Reference what was the Opinion of the Court, unleſs the Court do direct it to be drawn otherwiſe.</p>
+                  <p>All Orders drawn up by the Regiſters, are to be entred under the Regiſters hand in due time; and after they are once ſo entred, they may not be in any manner, upon any occaſi<g ref="char:EOLhyphen"/>on whatſoever, altered, without a ſpecial Or<g ref="char:EOLhyphen"/>der and direction of the Court to that pur<g ref="char:EOLhyphen"/>poſe.</p>
+                  <p>It was an ancient piece of practice, but I think now almoſt ſuper annuated, that the Regiſter within ten dayes after the end of eve<g ref="char:EOLhyphen"/>ry Term ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uld certify the Lord Chancellor, or Lord Keeper for the time being, what Refe<g ref="char:EOLhyphen"/>rences depend in the hand of any Maſter, and how long they have depended; that ſo if any of them have depended over-long, the Court may require an account thereof from the Ma<g ref="char:EOLhyphen"/>ſter, and quicken him to a ſpeedy diſpatch.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>SECT. V.</head>
+                  <p>IT doth often fall out, that ſome perſons may have right to an Eſtate, yet not wherewith to proſecute the ſame; or elſe may be made parties to a ſuit, as knowing much therein, yet have not wherewith to make either a defence or diſcovery: in ſuch Caſes the party making
+<pb n="83" facs="tcp:46430:45"/>Oath before a Maſter of his poverty, and ex<g ref="char:EOLhyphen"/>hibiting the ſame either to the Lord Chan<g ref="char:EOLhyphen"/>cellor or Maſter of the Rolls, together with a Petition, they, or one of them, will admit him to ſue <hi>in forma pauperis,</hi> and aſſign him ſuch Counſel, Six Clerk, &amp;c. as he ſhall deſire.</p>
+                  <p>But here it is neceſſary for our Sollicitor to know, that there are many Paupers who bring only vexatious ſuits; which if he can diſco<g ref="char:EOLhyphen"/>ver, and inform the Court thereof, they ſhall not only be diſmiſt, but puniſhed: however ſuch thing be made appear, the Counſel and Clerk aſſigned as aforeſaid, may not refuſe, but muſt attend their buſineſs, unleſs they ſhew cauſe to the Court why they cannot ſo do.</p>
+                  <p>They muſt alwayes have their Order of Ad<g ref="char:EOLhyphen"/>miſſion with them; and firſt move that before any other motion: and indeed it is no hinde<g ref="char:EOLhyphen"/>rance at all to them; for if they have any other motion, they may make it afterward.</p>
+                  <p>Where the Regiſter finds he is not in Pau<g ref="char:EOLhyphen"/>per, he ſhall not draw up any Order upon the ſecond motion, but the Pauper pretended ſhall loſe the fruit of it.</p>
+                  <p>No Counſellor, Attorney, Sollicitor, or Of<g ref="char:EOLhyphen"/>ficer of the Court appointed to be for a Pau<g ref="char:EOLhyphen"/>per by the Court, is to take any thing of, or contract for any thing with him; and the Pauper that can be proved ſo to have given
+<pb n="84" facs="tcp:46430:46"/>or contracted, is to be diſ-paupered for e<g ref="char:EOLhyphen"/>ver.</p>
+                  <p>If a Pauper fell or contract for his ſuit, or any part of it, his Bill ſhall be diſmiſſed, and never after retained.</p>
+                  <p>No Proceſs of contempt ſhall go out for a Pauper, untill it be ſigned by the Six-Clerk who dealeth for him; and he muſt ſee, there be cauſe for it.</p>
+                  <p>In all Offices where he hath any occaſion to paſs any thing, he muſt ſtill ſhew his Ad<g ref="char:EOLhyphen"/>miſſion.</p>
+                  <p>Touching Petitions: for the avoiding the multitude of frivolous ones, drawn by perſons who are altogether ignorant of the practice and courſe of the Court, and the true ſtate of the Petitioners buſineſs, it were to be wiſhed that none but able Sollicitors, ſuch as are de<g ref="char:EOLhyphen"/>ſcribed before, both for Learning and Parts; and not every broken fellow, that can ſcarce write his name, be allowed by the Court to practiſe, as is before mentioned, <hi>Page</hi> 27.</p>
+               </div>
+               <div n="6" type="section">
+                  <head>SECT. VI.</head>
+                  <p>ANother thing fit for our Sollicitor to know, is, the matter of Affidavits, and how they are to be made, that they may be effectual. You muſt know then, that Affidavits are
+<pb n="85" facs="tcp:46430:46" rendition="simple:additions"/>moſt generally made before Maſters of the Chancery: but where it is for the ſerving of a <hi>Subpoena,</hi> they are ſometimes taken and certified by others.</p>
+                  <p>An Affidavit may not be taken againſt an Affidavit: for if it be, the latter is not to be uſed.</p>
+                  <p>An Affidavit ought not to be taken tending to the proof or diſproof of the matter in que<g ref="char:EOLhyphen"/>ſtion; nor may any ſuch matter be admitted to be colourably inſerted into an Oath made of the ſerving of Proceſs. <hi>Caryes</hi> Rep. 63, 69, 81, 82, 84, 85, 98, 99, 103.</p>
+                  <p>There is alſo another point fit for our Solli<g ref="char:EOLhyphen"/>citor's knowledg: for many times there may be ſome one belonging to the Court, who is thereby a priviledged perſon, by which means he cannot be ſued for debt. In ſuch Caſe, and againſt ſuch a perſon ſo priviledged, a De<g ref="char:EOLhyphen"/>claration for debt, or any other thing whereof the Court holdeth Plea, is to be delivered to one of the Six Clerks, whom the Plaintiff ma<g ref="char:EOLhyphen"/>keth as his Attorney; and he thereupon gi<g ref="char:EOLhyphen"/>veth a day (as is commonly termed, which is a week, <hi>viz.</hi> the whole next Return) to the De<g ref="char:EOLhyphen"/>fendant to anſwer: which day entred into the Six-Clerk's Coſts-book, (in this manner, <hi>Ro<g ref="char:EOLhyphen"/>berts</hi> againſt <hi>Johnſon</hi>) a day is given from the
+<pb n="86" facs="tcp:46430:47" rendition="simple:additions"/>day of St. <hi>Micha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l</hi> in one Moneth, in a Plea of Priviledg.</p>
+                  <p>Day being thus given, the Declaration un<g ref="char:EOLhyphen"/>der the Attorneys hand is ſent over to the Pet<g ref="char:EOLhyphen"/>ty-bag by one of the ſaid Attorneys Clerks: which Declaration is briefly entred by one of the Clerks there, and likewiſe the day that is given to the Defendant to anſwer in a Roll there, which is called <hi>Rotulus rememorationis Parvae-Bagae:</hi> at which day, by the courſe of the Common Law, if the Defendant plead not, he is fore-judged the Court. But of late, the courſe hath been to allow the Defendant a day of Imparlance: that is, day till the next Return after the Return given him to anſwer; which is in this manner.</p>
+                  <p>The Defendant retaineth one or other of the Six Clerks, who imparleth or him which is done in the Six Clerks Coſts-book, (in this manner, <hi>Roberts</hi> againſt <hi>Johnſon,</hi> Imparlance until the morrow of <hi>All. Souls</hi>) at which day it is ſent over into the Petty-bag, to be entred into the aforeſaid Roll, next under the ſaid Declaration.</p>
+                  <p>The ſaid day of Imparlance being paſt, another day, <hi>viz.</hi> commonly five dayes in a week, (which is commonly called the Peremp<g ref="char:EOLhyphen"/>tory day) is given by the Plaintiffs Attorney, and entred into the Petty-bag, as aforeſaid, to
+<pb n="87" facs="tcp:46430:47"/>the Defendant to plead, or elſe Judgement is to be entred againſt him.</p>
+                  <p>If the Defendant plead, his Plea is deliver<g ref="char:EOLhyphen"/>ed by his Attorney to the Plaintiffs Attorney; and then if the Plaintiff will proceed to a Tryal, he is to joyn up the Iſſue, (if he may, for in ſome Caſes he cannot) or elſe the Plain<g ref="char:EOLhyphen"/>tiff is to reply, and give the Defendant a day, <hi>viz.</hi> a whole Term to joyn up Iſſue, which is given and entred as the day to anſwer; and if the Defendant by that day joyns not up the Iſſue, Judgment is entred up by <hi>Nihil dicit.</hi> Here note, That after a Peremptory day gi<g ref="char:EOLhyphen"/>ven, the Defendant cannot pray Oyer of the Bond and Condition, or ſuch like, as of late hath been uſed for <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>meer delay: but if the Iſſue be joyned up, either by the Plaintiff or Defendant, then is the Record made up, and the ſame with a <hi>Venire facias</hi> is ſent into the Kings Bench to be tryed, as an Action there at Iſſue; and upon Judgment there, execution is thereupon there awarded.</p>
+                  <p>But if the Defendant refuſe or neglect to imparl at the day given him to anſwer or plead (for he may plead if he will) at that day, then is Judgment entred againſt him, and executi<g ref="char:EOLhyphen"/>on is awarded.</p>
+                  <p>Upon Judgment either by default or <hi>Nihil dicit,</hi> ſome of theſe Writs of Execution are
+<pb n="88" facs="tcp:46430:48"/>awarded. If for Debt, the Plaintiff may have an <hi>Elegit,</hi> by <hi>Weſtminſt.</hi> 2. <hi>Cap.</hi> 18. or elſe a <hi>Levari facias,</hi> or <hi>Fieri facias:</hi> and if the Plaintiff cannot levy his Debt and Damages, then he ſhall have a <hi>Capias ad ſatisfaciendum,</hi> either for all, or ſo much as reſteth unſatiſ<g ref="char:EOLhyphen"/>fied.</p>
+                  <p>The Judgment being ſatisfyed, the Plaintiff by himſelf or his Attorney (if the Defendant deſire it) doth acknowledg ſatisfaction upon the Judgment in the Petty-bag-Office.</p>
+                  <p>It is to be noted, that whatſoever day is gi<g ref="char:EOLhyphen"/>ven by any of the Six Clerks, and by them en<g ref="char:EOLhyphen"/>tred in their Book, is yet worth nothing if the ſame be not entred in the Petty-bag.</p>
+                  <p>This is the courſe uſed againſt a perſon that is priviledged by a Forrainer: but if a For<g ref="char:EOLhyphen"/>rainer be indebted to a priviledged perſon, or incur a ſuit, then you muſt obſerve this cou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe that followeth.</p>
+                  <p>The Defendant being Arreſted by an At<g ref="char:EOLhyphen"/>tachment of Priviledg, at the ſuit of a Privi<g ref="char:EOLhyphen"/>ledged perſon, as aforeſaid, muſt retain one of the Six Clerks to his Attorney, and muſt put in Bail to the Plaintiffs Action, according to the courſe of the Court; which is, to appear from day to day untill the Plea be determi<g ref="char:EOLhyphen"/>ned, to ſatisfy the Plaintiff all ſuch ſums of money as the Plaintiff ſhall recover againſt
+<pb n="89" facs="tcp:46430:48"/>him by reaſon of this ſuit; then the priviled<g ref="char:EOLhyphen"/>ged man putteth in his Declaration, and there<g ref="char:EOLhyphen"/>upon the proceedings are the very ſame as be<g ref="char:EOLhyphen"/>fore againſt the priviledged man.</p>
+                  <p>By the courſe of the Court, the Defendant is to put in four Subſidy-men, or ſufficient Sureties, (be the Action never ſo ſmall) as appears by <hi>Archibald</hi> and <hi>Burialls</hi> Caſe, 23 <hi>El.</hi> wherein the Defendant is bound in 400 <abbr>l.</abbr> the ſum of the Action, and every ſurety in a hun<g ref="char:EOLhyphen"/>dred pounds.</p>
+                  <p>If Judgment be given for a priviledged perſon in this Court, he may, if he will, take out Execution as before: but if he will not, then he may take out a <hi>Scire facias</hi> againſt the Defendant and his Manucaptors upon the Bail: whereupon if Judgment be upon the ſaid <hi>Soire facias</hi> in the Chancery, then Exe<g ref="char:EOLhyphen"/>cution is there awarded; but if upon Iſſue joyned and ſent into the Kings Bench, and up<g ref="char:EOLhyphen"/>on Tryal there, Judgment be given, then is Execution there awarded; and upon ſatiſ<g ref="char:EOLhyphen"/>faction of the Debt, and damages, the Bail is to be diſcharged upon the acknowledgment of ſatisfaction, as before is mentioned againſt the priviledged perſon.</p>
+                  <p>If either the Plaintiff or Defendant upon Declaration of Priviledg or <hi>Scire facias</hi> demur in Chancery, the Demurrer being joyned, a day is ſet down by the Lord Chancellor or
+<pb n="90" facs="tcp:46430:49"/>Lord Keeper for the arguing thereof before him. And if upon the Argument it fall out to be a <hi>Reſpondeas ouſter,</hi> then Judgment is entred thereupon: and if it be againſt the Defendant, then Execution is awarded; and if againſt the Plaintiff, then it is that <hi>Nilcapiat per Billam,</hi> that he take nothing by his Writ or Declara<g ref="char:EOLhyphen"/>tion.</p>
+                  <p>But if it be a <hi>Reſpondeas ultra,</hi> then is the Defendant to pay coſts, and a day given for him to plead peremptorily, or Judgment to be entred.</p>
+                  <p>Thus have I quite gone through the whole practick part wherein our Sollicitor ought to b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> verſed: I ſhall in the next place give you a Table of Fees; which in regard he may in dealing for Clyents have occaſions for fre<g ref="char:EOLhyphen"/>quent disburſments, I think it very neceſſary: which are in ſhort theſe, and ſhall make one entire Section, and the laſt of this Chapter.</p>
+               </div>
+               <div n="7" type="section">
+                  <pb n="91" facs="tcp:46430:49"/>
+                  <head>SECT. VII.</head>
+                  <p>
+                     <table>
+                        <head>A Table of Fees.</head>
+                        <row>
+                           <cell role="label"> </cell>
+                           <cell role="label">
+                              <abbr>
+                                 <hi>l.</hi>
+                              </abbr>
+                           </cell>
+                           <cell role="label">
+                              <abbr>
+                                 <hi>s.</hi>
+                              </abbr>
+                           </cell>
+                           <cell role="label">
+                              <abbr>
+                                 <hi>d.</hi>
+                              </abbr>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>FOr all firſt, ſecond, or other Copies of all Bills, Anſwers, and other Plea<g ref="char:EOLhyphen"/>dings whatſoever; as alſo of all Certificates and Exa<g ref="char:EOLhyphen"/>minations, made or taken by vertue of any Commiſſion out of this Court, and of In<g ref="char:EOLhyphen"/>terrogatories therewith re<g ref="char:EOLhyphen"/>turned; and alſo of all De<g ref="char:EOLhyphen"/>clarations or proceedings by Engliſh Bill, or according to the courſe of the Common Law; and for Copies of Records, Rolls or Eviden<g ref="char:EOLhyphen"/>ces brought in to be copyed, or remaining in the ſaid Court; for every ſheet of paper containing 15 lines</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>For the inrolling of all Warrants, whereby any Pa<g ref="char:EOLhyphen"/>tents,
+<pb n="92" facs="tcp:46430:50"/>Commiſſions, Licen<g ref="char:EOLhyphen"/>ſes, Pardons, Leaſes, or other Grants whatſoever, do paſs by and under the Great Seal after the rate of every skin ſo paſſing the Great Seal</cell>
+                           <cell>00</cell>
+                           <cell>02</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>For the inrolling of all Warrants for Commiſſions of the Peace or Goal deli<g ref="char:EOLhyphen"/>very, for a liberty for <hi>Oyer</hi> and <hi>Terminer,</hi> for Pyracies, for the preſervation of the Game of Swans, and for Commiſſions for enquiry ſued out for the benefit of any private perſon; for every of the ſaid Commiſſions</cell>
+                           <cell>00</cell>
+                           <cell>01</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>For the inrolling of all Warrants for all Commiſſi<g ref="char:EOLhyphen"/>ons of Appeal, and for the Admiralty, for every one of them</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>For the inrolment of eve<g ref="char:EOLhyphen"/>ry Warrant, for every or<g ref="char:EOLhyphen"/>dinary Licenſe or Pardon of Alienation</cell>
+                           <cell>00</cell>
+                           <cell>03</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>But if the ſame be of more then ordinary length, then according to the length, af<g ref="char:EOLhyphen"/>ter
+<pb n="93" facs="tcp:46430:50"/>the rate of ten ſhillings the skin, and not above</cell>
+                           <cell>00</cell>
+                           <cell>10</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>For inrolling all War<g ref="char:EOLhyphen"/>rants for all Commiſſions in the nature of Writs of <hi>Diem clauſit extremum, Mandamus, Ideota proband', Lunatio' in<g ref="char:EOLhyphen"/>quirend', Melius inquirend',</hi> for every of them</cell>
+                           <cell>00</cell>
+                           <cell>03</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>For inrolling the War<g ref="char:EOLhyphen"/>rants for every Patent or Grant of the Cuſtody of any Ward</cell>
+                           <cell>00</cell>
+                           <cell>08</cell>
+                           <cell>08</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>But this of Wards I ſuppoſe now to be of little uſe, in regard all manner of Wardſhips are quite taken off, by a Statute made in the 13th of King <hi>Charls</hi> 2.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>For inrolling the War<g ref="char:EOLhyphen"/>rant for every Preſentation, Donation, or Revocation to any Rectory, Vicarage, Deanary, Archdeaconry, Chancellorſhip, Treaſurer<g ref="char:EOLhyphen"/>ſhip, or Dignity to any Me<g ref="char:EOLhyphen"/>tiopolitical, Cathedral, or Collegiate Church; or for any Cannonſhip or Prebend
+<pb n="94" facs="tcp:46430:51"/>in any of the ſaid Churches, or for the Maſterſhip in any Hoſpitall or Eccleſiaſticall Living, or for the Grant of any Preſentation or Preſen<g ref="char:EOLhyphen"/>tations, <hi>pro unica vel pluribus vicibus</hi> thereunto—</cell>
+                           <cell>For the Inrolling of the Warrants for every <hi>Manda<g ref="char:EOLhyphen"/>mus ad Inſtalland'</hi>—</cell>
+                           <cell>00</cell>
+                           <cell>03</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>For the Inrolling of all Warrants for all Wine-Li<g ref="char:EOLhyphen"/>cenſes, for every life—</cell>
+                           <cell>00</cell>
+                           <cell>03</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>Or ſuch Fee not exceeding that proportion as by the Chancellor ſhall be ſet down: though formerly they paid if it were granted for three lives, but—</cell>
+                           <cell>00</cell>
+                           <cell>06</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>For the inrolling War<g ref="char:EOLhyphen"/>rants for every Pardon of Outlawry—</cell>
+                           <cell>00</cell>
+                           <cell>03</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>For inrolling Warrants for every Denization or Com<g ref="char:EOLhyphen"/>miſſion of Bankrupts—</cell>
+                           <cell>00</cell>
+                           <cell>03</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>For writing of every Ex<g ref="char:EOLhyphen"/>emplification, as well of Re<g ref="char:EOLhyphen"/>cords in the Tower, as of any Record whatſoever, after the
+<pb n="95" facs="tcp:46430:51"/>rate of every Skin—</cell>
+                           <cell>01</cell>
+                           <cell>06</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>The Six Clerks Fee of every Clyent for every Term whilſt his cauſe dependeth undetermined by Decree or by Diſmiſſion, the Termly Fee of—</cell>
+                           <cell>00</cell>
+                           <cell>03</cell>
+                           <cell>04</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>And ſo if there be twenty Plaintiffs in one Bill, they all pay but one Fee for one Term.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>But for every three De<g ref="char:EOLhyphen"/>fendants, reckoning the huſ<g ref="char:EOLhyphen"/>band and Wife but for one perſon, there is due for their firſt appearance—</cell>
+                           <cell>00</cell>
+                           <cell>03</cell>
+                           <cell>04</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>And upon the firſt appearance, if every De<g ref="char:EOLhyphen"/>fendant appears ſeverally by himſelf, he is to pay the Fee of three ſhillings four pence; but every Term afterwards, during the continu<g ref="char:EOLhyphen"/>ance of the Cauſe, there is only the Fee of three ſhillings four pence the Term to be paid for all the Defendants that did appear in any Term or Vacation in the ſame Cauſe.</p>
+                  <pb n="96" facs="tcp:46430:52"/>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label"> </cell>
+                           <cell role="label">
+                              <abbr>
+                                 <hi>l.</hi>
+                              </abbr>
+                           </cell>
+                           <cell role="label">
+                              <abbr>
+                                 <hi>s.</hi>
+                              </abbr>
+                           </cell>
+                           <cell role="label">
+                              <abbr>
+                                 <hi>d.</hi>
+                              </abbr>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>For a Writ of <hi>Subpoena</hi> to anſwer—</cell>
+                           <cell>00</cell>
+                           <cell>02</cell>
+                           <cell>06</cell>
+                        </row>
+                        <row>
+                           <cell>If there be three in the Writ, you pay more—</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>06</cell>
+                        </row>
+                        <row>
+                           <cell>For an Attachment—</cell>
+                           <cell>00</cell>
+                           <cell>02</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>For breaking it up with the Sheriff, and his War<g ref="char:EOLhyphen"/>rant thereon—</cell>
+                           <cell>00</cell>
+                           <cell>02</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>For the return of the At<g ref="char:EOLhyphen"/>tachment—</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>For a Proclamation of Rebellion—</cell>
+                           <cell>00</cell>
+                           <cell>02</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>Breaking it up, and War<g ref="char:EOLhyphen"/>rant—</cell>
+                           <cell>00</cell>
+                           <cell>02</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>The Return—</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>For a Commiſſion of Re<g ref="char:EOLhyphen"/>bellion—</cell>
+                           <cell>00</cell>
+                           <cell>18</cell>
+                           <cell>02</cell>
+                        </row>
+                        <row>
+                           <cell>For the inrolment of eve<g ref="char:EOLhyphen"/>ry <hi>Liberate</hi> and <hi>Allocate</hi>—</cell>
+                           <cell>00</cell>
+                           <cell>03</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>The Rule which the Plain<g ref="char:EOLhyphen"/>tiff gives the Defendant to make anſwer by a day when the Defendant appeare—</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>For each Rule for publi<g ref="char:EOLhyphen"/>cation after examination of Witneſſes—</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>For entring them with the Regiſter, for each—</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>The Defendants appearance</cell>
+                           <cell>00</cell>
+                           <cell>04</cell>
+                           <cell>00</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <pb n="97" facs="tcp:46430:52"/>
+                  <p>In which is included the Clerks Fee for the Term.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label"> </cell>
+                           <cell role="label">
+                              <abbr>
+                                 <hi>l.</hi>
+                              </abbr>
+                           </cell>
+                           <cell role="label">
+                              <abbr>
+                                 <hi>s.</hi>
+                              </abbr>
+                           </cell>
+                           <cell role="label">
+                              <abbr>
+                                 <hi>d.</hi>
+                              </abbr>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>For the Oath made that the anſwer is true—</cell>
+                           <cell>00</cell>
+                           <cell>01</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>And ſo for every Defendan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>, if they be ne<g ref="char:EOLhyphen"/>ver ſo many.</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>For a Commiſſion to take an anſwer in the Country by <hi>Dedimus Poteſtatem</hi>—</cell>
+                           <cell>00</cell>
+                           <cell>07</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>Beſides the ingroſſing of the Bill which is included in it, every ſheet—</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>06</cell>
+                        </row>
+                        <row>
+                           <cell>For a <hi>Subpoena</hi> for Coſts, where the Bill is not put in by the Complainant within the time limited—</cell>
+                           <cell>00</cell>
+                           <cell>02</cell>
+                           <cell>06</cell>
+                        </row>
+                        <row>
+                           <cell>For a Bill of coſts, and the entry of it—</cell>
+                           <cell>00</cell>
+                           <cell>02</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>For a Joynt-Commiſſion to examine Witneſſes in the Country—</cell>
+                           <cell>00</cell>
+                           <cell>07</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>The Plaintiff payes the Defendant—</cell>
+                           <cell>00</cell>
+                           <cell>06</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>For the examination of every Witneſs here before the Examiners—</cell>
+                           <cell>00</cell>
+                           <cell>02</cell>
+                           <cell>06</cell>
+                        </row>
+                        <row>
+                           <cell>For the Oath of every Witneſs that is to be exami<g ref="char:EOLhyphen"/>ned—</cell>
+                           <cell>00</cell>
+                           <cell>01</cell>
+                           <cell>00</cell>
+                        </row>
+                        <pb n="98" facs="tcp:46430:53"/>
+                        <row>
+                           <cell role="label"> </cell>
+                           <cell role="label">
+                              <abbr>
+                                 <hi>l.</hi>
+                              </abbr>
+                           </cell>
+                           <cell role="label">
+                              <abbr>
+                                 <hi>s.</hi>
+                              </abbr>
+                           </cell>
+                           <cell role="label">
+                              <abbr>
+                                 <hi>d.</hi>
+                              </abbr>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>For the Copies of Depo<g ref="char:EOLhyphen"/>ſitions returnable by Com<g ref="char:EOLhyphen"/>miſſion</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>For Copies of Depoſiti<g ref="char:EOLhyphen"/>ons taken in the Examiners Office, for each ſheet</cell>
+                           <cell>00</cell>
+                           <cell>01</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>For the drawing up of an Order upon motion to the Regiſter, for the firſt ſide</cell>
+                           <cell>00</cell>
+                           <cell>03</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>For every other ſide</cell>
+                           <cell>00</cell>
+                           <cell>01</cell>
+                           <cell>06</cell>
+                        </row>
+                        <row>
+                           <cell>For entring of the ſame Order, every ſide.</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>06</cell>
+                        </row>
+                        <row>
+                           <cell>Fees of an Injunction in all</cell>
+                           <cell>01</cell>
+                           <cell>02</cell>
+                           <cell>06</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>If it be granted by the Maſter of the Rolls, then you pay two ſhillings more.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>For a <hi>Subpoena</hi> to rejoyn</cell>
+                           <cell>00</cell>
+                           <cell>02</cell>
+                           <cell>06</cell>
+                        </row>
+                        <row>
+                           <cell>For a <hi>Subpoena ad audien<g ref="char:EOLhyphen"/>dum Judicium</hi>
+                           </cell>
+                           <cell>00</cell>
+                           <cell>02</cell>
+                           <cell>06</cell>
+                        </row>
+                        <row>
+                           <cell>For a <hi>Subpoena ſuper ordi<g ref="char:EOLhyphen"/>nem</hi> to ſhew cauſe</cell>
+                           <cell>00</cell>
+                           <cell>07</cell>
+                           <cell>02</cell>
+                        </row>
+                        <row>
+                           <cell>For a <hi>Subpoena ducens te<g ref="char:EOLhyphen"/>cum</hi>
+                           </cell>
+                           <cell>00</cell>
+                           <cell>07</cell>
+                           <cell>02</cell>
+                        </row>
+                        <row>
+                           <cell>For a <hi>Subpoena de executi<g ref="char:EOLhyphen"/>one ordinis</hi>
+                           </cell>
+                           <cell>01</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>For the Copy of Replication, Rejoynder, Sur-rejoynder, Rebater, and Sur-rebater, as for Bill and Anſwer.</p>
+                  <pb n="99" facs="tcp:46430:53"/>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label"> </cell>
+                           <cell role="label">
+                              <abbr>
+                                 <hi>h.</hi>
+                              </abbr>
+                           </cell>
+                           <cell role="label">
+                              <abbr>
+                                 <hi>s.</hi>
+                              </abbr>
+                           </cell>
+                           <cell role="label">
+                              <abbr>
+                                 <hi>d.</hi>
+                              </abbr>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Fees for a Decretal Or<g ref="char:EOLhyphen"/>der drawing up, as in ano<g ref="char:EOLhyphen"/>ther Order; only for the word <hi>Decree</hi> you muſt pay
+more</cell>
+                           <cell>00</cell>
+                           <cell>18</cell>
+                           <cell>06</cell>
+                        </row>
+                        <row>
+                           <cell>For every Writ of execu<g ref="char:EOLhyphen"/>tion of any Order</cell>
+                           <cell>00</cell>
+                           <cell>06</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>For drawing and inrolling every Decree and Diſmiſſi<g ref="char:EOLhyphen"/>on reſpectively</cell>
+                           <cell>00</cell>
+                           <cell>03</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>For every Writ of Exe<g ref="char:EOLhyphen"/>cution upon any Decree, af<g ref="char:EOLhyphen"/>ter the rate of every Skin</cell>
+                           <cell>01</cell>
+                           <cell>06</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>For writing of every She<g ref="char:EOLhyphen"/>riffs Patent, Writ of Aſſi<g ref="char:EOLhyphen"/>ſtance, Writ of Diſcharge, Commiſſion to take the Sheriffs Oaths, the War<g ref="char:EOLhyphen"/>rant of Attorney, and wri<g ref="char:EOLhyphen"/>ting the two Oaths, and the Clerks Fee</cell>
+                           <cell>01</cell>
+                           <cell>02</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>For every <hi>Superſedeas</hi> for the diſcharge of any Com<g ref="char:EOLhyphen"/>miſſion, or other Writ made in the Six Clerks Office</cell>
+                           <cell>00</cell>
+                           <cell>06</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>For every <hi>Superſedeas</hi> of Priviledg</cell>
+                           <cell>00</cell>
+                           <cell>06</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>For every ſpecial <hi>Certio<g ref="char:EOLhyphen"/>rare,</hi> or <hi>Procedendo, Corpus cum cauſa,</hi> or <hi>Habeas Corpus</hi>
+                           </cell>
+                           <cell>00</cell>
+                           <cell>06</cell>
+                           <cell>08</cell>
+                        </row>
+                        <pb n="100" facs="tcp:46430:54"/>
+                        <row>
+                           <cell role="label"> </cell>
+                           <cell role="label">
+                              <abbr>
+                                 <hi>l.</hi>
+                              </abbr>
+                           </cell>
+                           <cell role="label">
+                              <abbr>
+                                 <hi>s.</hi>
+                              </abbr>
+                           </cell>
+                           <cell role="label">
+                              <abbr>
+                                 <hi>d.</hi>
+                              </abbr>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>For every Bail upon eve<g ref="char:EOLhyphen"/>ry Writ of <hi>Corpus cum cau<g ref="char:EOLhyphen"/>ſa,</hi> or nature of priviledg</cell>
+                           <cell>00</cell>
+                           <cell>02</cell>
+                           <cell>09</cell>
+                        </row>
+                        <row>
+                           <cell>For all manner of <hi>Certie<g ref="char:EOLhyphen"/>rare's</hi> and <hi>Procedendo's</hi> of courſe</cell>
+                           <cell>00</cell>
+                           <cell>02</cell>
+                           <cell>09</cell>
+                        </row>
+                        <row>
+                           <cell>For every Recognizance or Bond made in Court</cell>
+                           <cell>00</cell>
+                           <cell>02</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>For every Oath before a Maſter</cell>
+                           <cell>00</cell>
+                           <cell>01</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>For every Report, though never ſo ſmall, ten ſhillings, and the Clerk five ſhillings; and if it be longer, them more.</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>For filing every Affidavit</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>For filing every Report, the like.</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>For the Sollicitors Term<g ref="char:EOLhyphen"/>ly Fee</cell>
+                           <cell>00</cell>
+                           <cell>06</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>And for every attendance in Court on References</cell>
+                           <cell>00</cell>
+                           <cell>06</cell>
+                           <cell>08</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="101" facs="tcp:46430:54"/>
+               <head>
+                  <hi>CHAP. VI.</hi> By way of Advice and Corollary.</head>
+               <p>THus have I, with brevity, plainneſs, and truth, run over all the moſt material and effectual things which are required from a Sollicitor, or indeed from any belonging to the Court. I ſuppoſe I ſhall not need to ſay any thing of Sollicitation in the Courts of Kings Bench and Common Pleas at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> neither of the Exchequer-proceedings by Engliſh Bill, they being in effect one and the ſame with the Chancery, only a little more chargable. The Office of Pleas agrees with the Kings Bench; and all other Offices be<g ref="char:EOLhyphen"/>longing to that Court, may rather be looked upon as pertaining to the Kings Revenue, then matter of Record between private ſubj<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts. The Huſtings of <hi>London</hi> are of ſo quick diſpatch, and little charge, that the very meaneſt per<g ref="char:EOLhyphen"/>ſons in the City underſtand the practice there<g ref="char:EOLhyphen"/>of, though ſometimes there are ſome de<g ref="char:EOLhyphen"/>layes put upon them by the Practiſers, who keep the myſtery of their dealing wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hin
+<pb n="102" facs="tcp:46430:55"/>their Walls. In ſhort, I ſuppoſe Sollicita<g ref="char:EOLhyphen"/>tion is either only or chiefly needful in Chan<g ref="char:EOLhyphen"/>cery, where always the Cauſes are of great weight, importance and intricacy; and not in Courts of Law, where the Attornies and their Clerks are able to manage and go through much more buſineſs then they have, their Proceedings being certain and conciſe, and tyed to ſtricter Rules, then the Chancery, being a Court of Equity, can be. But if our Sollicitor will ſtoop to thoſe ſmaller Courts, let him know, all that he hath to do there, is but to be able to breviate his Clyents Cauſe, fit to inſtruct Counſel: for in all other things he is but a Servant to the Attorney. Yet would I not have him either negligent or ignorant; but, as leiſure ſhall ſerve, ſtill to have an eye to the practice of all Courts: for by that means at one time or other he ſhall be enabled either to ſerve his Friend or Cly<g ref="char:EOLhyphen"/>ent. And though by practice he cannot aſſiſt, yet by his knowledge he may adviſe what may be the ſafeſt way to tread in. So ſhall he me<g ref="char:EOLhyphen"/>rit the praiſes of a knowing and induſtrious perſon; making good that of <hi>Cicero</hi> in his firſt Book <hi>de Offi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iis,</hi> to wit, <hi>Nulla vitae pars, ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> publicis, ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> privatis, ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> forenſibus, ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> domeſticis in rebus, ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſi tecum quid agas, ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſi cum altero contrabas, vacare officio poteſt: in
+<pb n="103" facs="tcp:46430:55"/>co<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> excolendo ſita eſt vitae honeſtas omnis, &amp; in negligendo turpitudo.</hi> And in another place of the ſame Book: <hi>Praeclarè ſcriptum eſt à</hi> Platone, <hi>Non nobis ſolum nati ſumus, ortûſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> noſtri partem patria vendicat, partem amici. At<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ut placet Stoicis, Quae in terris gignuntur ad hominum uſum emnia creari, homines autem ho<g ref="char:EOLhyphen"/>miaum cauſa eſſe procreatos, ut ipſi inter ſe alii aliis prodeſſe poſſint. In hoc Naturam de<g ref="char:EOLhyphen"/>bemus ſequi ducem, &amp; communes utilitates afferre in media commutatione officiorum, dando, accipiendo, tum artibus, tum op<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ra, tum faculta<g ref="char:EOLhyphen"/>tibus devincire hominum inter homines ſocietatem.</hi> 
+                  <q>It was moſt excellently written by the divine <hi>Plato,</hi> (ſaith he) that we were not born for our Selves only: for of our Beeing, our Country challengeth one part, and another our Friends. And, as the Stoicks ſaid, That as all things that were bred by the Earth, were brought forth for the uſe of man: ſo men were born for the ſake of one another, that one might help and be profitable one to another. And herein indeed we ſhould follow our great Commandreſs Nature, by giving and receiving, To do common good, by all the Arts, Ways, Means and Endea<g ref="char:EOLhyphen"/>vours that they can poſſibly find to oblige and tye men together one to another in civil ſociety, of bond of friendſhip.</q> But every
+<pb n="104" facs="tcp:46430:56"/>man is not fit for this; <hi>Ex quovis ligno non fit Mercurius:</hi> therefore it is fit, that none ſhould meddle in Affairs belonging to Law, but ſuch as have found diſcerning Judgments, and know what they go about; leſt they be<g ref="char:EOLhyphen"/>come not only puniſhable, but ridiculous. As it once happened to <hi>Megabyzes</hi> the Perſian, a man otherwiſe of great Reputation and Va<g ref="char:EOLhyphen"/>lour, who having upon a time entred into the Lodging, where the famous Painter <hi>Apelles</hi> did ply and practiſe his Art, began to diſ<g ref="char:EOLhyphen"/>courſe touching the ſame; and would needs give him to underſtand, that he knew the nature and ſecrets thereof: To who <hi>Apelles,</hi> as being a wiſe and well-conditioned man, thus anſwered, <hi>Truly,</hi> Megabyzes, <hi>before I heard you ſpeak, I held you for a diſcrect man; for your ſilence did grace your brave apparrel: but ſince ye have medled to talk of my Trade, truſt me not, if the very ſmalleſt Boy here that brayeth the Oker, will not mock at, and flout you, for your labour.</hi> Which may teach every man to keep him<g ref="char:EOLhyphen"/>ſelf within the compaſs of his Calling, and not every fooliſh Fellow to undertake ſo weighty a profeſſion as that of a good Sollici<g ref="char:EOLhyphen"/>tor ought to be. This was inculcated by the Poets, when they feign that their gods do con<g ref="char:EOLhyphen"/>tent themſelves each within his own Sphere; <hi>Mars</hi> medleth with War, <hi>Minerva</hi> with Arts,
+<pb n="105" facs="tcp:46430:56"/>
+                  <hi>Mercury</hi> with Eloquence, <hi>Cupid</hi> with Love, <hi>Neptune</hi> with the Sea, <hi>Pluto</hi> with Hell, <hi>Jupi<g ref="char:EOLhyphen"/>tur</hi> with Heaven. Hence we may gather, That all things do not befit all men: The Horſe is fit for riding and running, the Ox for labouring the Ground. Yet there are a ſort of men (and I wiſh they were not) who without leaving any part of their idleneſs and vices, would be as wiſe as the Philoſophers, that have both Night and Day ſtudied ſo much. But in theſe, and ſuch other Occur<g ref="char:EOLhyphen"/>rents, which at the preſent cannot be helped, let us take occaſion to be more watchful and wary, leſt we become one of thoſe that forget to carry our ſelves diſcreetly, and while we blame others, run into the ſame fault our ſelves.</p>
+            </div>
+         </div>
+         <div type="appendix">
+            <pb n="106" facs="tcp:46430:57"/>
+            <head>
+               <hi>An Appendix.</hi> Becauſe of thoſe many clamours which are frequently and induſtriouſly rai<g ref="char:EOLhyphen"/>ſed againſt the Court, by perſons, no doubt, no way concerned, and who have no occaſion of ſuch rude com<g ref="char:EOLhyphen"/>plaints further than to ſcandalize the Government; I have preſumed to do the moſt Honourable Houſhold the right and Juſtice (beſides what is due to the ſtrict commands of our Soveraign for the execution of the Laws againſt all perſons how nearly ſoever attending on him) as to give an account how, and what procee<g ref="char:EOLhyphen"/>dings may be had againſt them, with<g ref="char:EOLhyphen"/>out incurring any danger or trouble.</head>
+            <p>PErſons that have Protections from the. Law, have them either as <hi>ex Officio,</hi> or <hi>ex Favore.</hi>
+            </p>
+            <pb n="107" facs="tcp:46430:57"/>
+            <p>Perſons by Office are ſuch as relate by ſer<g ref="char:EOLhyphen"/>vice to the King, Queen, and Royal family; all who are menial ſervants to Peers, and to Members of Parliament, and all Privy-Coun<g ref="char:EOLhyphen"/>ſellors.</p>
+            <p>Perſons by favour, are ſuch as having no re<g ref="char:EOLhyphen"/>lation by ſervice, are yet, out of reſpect, friend<g ref="char:EOLhyphen"/>ſhip or Allyance, protected by any perſon en<g ref="char:EOLhyphen"/>abled to give a Protection; or elſe have a Pro<g ref="char:EOLhyphen"/>tection-Royal.</p>
+            <p>Leave is to be gotten againſt Kings ſer<g ref="char:EOLhyphen"/>vants below ſtairs, from the Green-cloth. If they be above ſtairs, either from the Lord-Chamberlain or Groom of the Stool. If they be Gentlemen Penſioners, the Captain of their Band is to be Petitioned. If they be Yeomen of the Guard, from their Captain leave is to be obtained. If they be of the Life-guard, the Lord <hi>Gerard</hi> is to be ſought after. If Souldi<g ref="char:EOLhyphen"/>ers, their ſeveral. Colonels and Captains.</p>
+            <p>Where note, all theſe are to be ſued to for leave by Petition: upon the delivery and rea<g ref="char:EOLhyphen"/>ding whereof, the uſual courſe is to ſummon the party complained againſt to appear and ſhew cauſe why he doth not or ought not pay the Petitioner. If he can ſhew no cauſe, leave is ſtraight given: but if he ſubmit, then uſu<g ref="char:EOLhyphen"/>ally the perſon of Honour who might give leave, moderates the matter between the Peti<g ref="char:EOLhyphen"/>tioner
+<pb n="108" facs="tcp:46430:58" rendition="simple:additions"/>and the party complained againſt; and ſo ſettles ſome way of payment or ſatisfaction, either out of their Eſtates, Pay, Wages, or otherwiſe, as ſhall be thought moſt meet. To which Order of moderation, if the Debtor will not ſubmit, the Petitioner ſtraightway ſhall have leave to Arreſt him: which leave is to be ſignified in writing under hand; and being delivered to an Officer, is a good War<g ref="char:EOLhyphen"/>rant to him to proceed againſt the ſaid per<g ref="char:EOLhyphen"/>ſon according to Law.</p>
+            <p>All other Protections muſt be ſought to be waived in like manner by Petition to the Lord, or other honourable perſon who gave the ſame.</p>
+            <p>This is not to be done without charge, though there be no certainty in the charge; but each may give or receive <hi>ad libitum.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46430:58"/>
+         </div>
+      </body>
+   </text>
+</TEI>
